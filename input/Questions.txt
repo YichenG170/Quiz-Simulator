@@ -1,0 +1,24 @@
+When using ER diagram to capture many-to-one relationship, which entity should the arrow point to?
+What is a database?
+What does a rectangle in an ER diagram represent?
+Not all entity sets need to have keys.
+You use a rounded arrow in an ER diagram to point to an entity set when you want to:
+A key in an entity set may only have one attribute.
+You can use referential integrity constraint in a many-to-many relationship.
+A weak entity set always has referential integrity with the supporting entity set.
+We use subclasses in ER diagrams when:
+Using the NULL approach when mapping subclass to relational schema, 
+When mapping ER diagram to relational schema, a subclass can be converted into relational schema using:
+When mapping ER diagram to relational schema, a weak entity set's supporting relationship becomes:
+When mapping ER diagram to relational schema, a many-to-many relationship becomes:
+Given E->G, GC->D, we infer that EC->D.
+If relational schema is not properly formulated, the following anomalies may occur:
+Given that M->C, MC->E, ME->B, we infer that M->B.
+Why do anomalies occur in tables?
+With respect to the definition of functional dependency given in the lecture, an empty table satisfies all functional dependencies in the table.	
+A candidate key is a key.
+Primary keys and secondary keys are not candidate keys.
+To prove that X->Y does not hold, we only need to show that {X}+ does not contain Y.
+A key is a set of attributes in a table that decides some other attributes.
+If {A}+ = {A, B, C}, then A->C.
+If the closure of a set A of attributes contains all attributes in table R, then A might be a key (or superkey) of R.

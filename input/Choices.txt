@@ -1,0 +1,70 @@
+Entity at the one side.
+Entity at the many side.
+Both one-side and many-side entities.
+Any entity.
+A website that displays data.
+Software to manage (store and retrieve) data.
+A collection of data specifically organized to allow efficient retrieval by a computer.
+A computer with a hard disk to store data.
+An entity.
+A person or object in the real world.
+A set of entities.
+Data about an entity.
+True
+False
+indicate referential integrity constraint.
+indicate roles.
+indicate key constraint.
+All of the above.
+True
+False
+True
+False
+True
+False
+a subclass has attribute(s) that is (are) absent from the superclass.
+a subclass has its own relationship with some other entity sets.
+we need a stronger supporting entity set.
+All of the above.
+a record may appear in multiple relations.
+a record may appear only in one relation.
+a record may appear in a subclass relation.
+None of the above.
+the subclass approach.
+the ER approach.
+the OO approach.
+the NULL approach.
+relation.
+relational schema.
+table.
+None of the above.
+relation.
+relational schema.
+table.
+All of the above.
+True
+False
+Certain attributes may have duplicate values in the table.
+Certain attributes may be duplicated in the table.
+Certain rows in the table may be duplicates.
+Certain rows and columns in the table may be duplicates.
+True
+False
+There is a bad combination of attributes.
+Certain attributes may appear more than once in the table.
+There is one or more relationships among attributes.
+There are functional dependencies among attributes.
+True
+False
+True
+False
+True
+False
+True
+False
+True
+False
+True
+False
+True
+False
