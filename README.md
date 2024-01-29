@@ -11,3 +11,5 @@ each line represents a seperate choice.
 each line represents the correct answer for the respective question. 
 ### NumOfCandA.txt
 every two lines represents: 1) the number of choices; 2) the number of correct answers for a question. 
+
+an example is provided for reference
