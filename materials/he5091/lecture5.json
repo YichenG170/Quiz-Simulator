@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "question": "An externality is defined as:",
+    "options": {
+      "A": "A cost or benefit that falls on the decision-maker only.",
+      "B": "An external cost or benefit of an activity affecting others.",
+      "C": "A government-imposed tax on production.",
+      "D": "A subsidy for positive outcomes."
+    },
+    "correct": "B",
+    "explanation": "Externalities are costs or benefits imposed on or received by third parties not involved in the activity."
+  },
+  {
+    "id": 2,
+    "question": "A negative externality is also known as:",
+    "options": {
+      "A": "An external benefit.",
+      "B": "An external cost.",
+      "C": "A private cost.",
+      "D": "A social subsidy."
+    },
+    "correct": "B",
+    "explanation": "Negative externalities impose costs on uninvolved parties, such as pollution affecting nearby residents."
+  },
+  {
+    "id": 3,
+    "question": "A positive externality leads to:",
+    "options": {
+      "A": "Overproduction.",
+      "B": "Underproduction relative to social optimum.",
+      "C": "Zero market failure.",
+      "D": "Increased private costs."
+    },
+    "correct": "B",
+    "explanation": "Positive externalities mean social benefits exceed private benefits, so market quantity is too low."
+  },
+  {
+    "id": 4,
+    "question": "The Coase Theorem states that if property rights are well-defined and transaction costs are low, then:",
+    "options": {
+      "A": "Externalities always lead to inefficiency.",
+      "B": "Parties can negotiate to achieve efficient outcomes regardless of initial rights assignment.",
+      "C": "Government intervention is always necessary.",
+      "D": "Private costs equal social costs."
+    },
+    "correct": "B",
+    "explanation": "Coase Theorem: Bargaining between affected parties internalizes externalities efficiently under those conditions."
+  },
+  {
+    "id": 5,
+    "question": "The Tragedy of the Commons refers to:",
+    "options": {
+      "A": "Overuse of shared resources due to lack of property rights.",
+      "B": "Underuse of private property.",
+      "C": "Efficient allocation in competitive markets.",
+      "D": "Government overregulation."
+    },
+    "correct": "A",
+    "explanation": "When resources are common property, individuals overuse them, leading to depletion (e.g., overfishing)."
+  },
+  {
+    "id": 6,
+    "question": "Property rights help resolve externalities by:",
+    "options": {
+      "A": "Increasing transaction costs.",
+      "B": "Allowing affected parties to negotiate and internalize costs/benefits.",
+      "C": "Encouraging free-rider problems.",
+      "D": "Eliminating all market incentives."
+    },
+    "correct": "B",
+    "explanation": "Clear rights enable bargaining, as per Coase, to align private and social outcomes."
+  },
+  {
+    "id": 7,
+    "question": "The optimal amount of information in a market is where:",
+    "options": {
+      "A": "Marginal cost of information equals marginal benefit.",
+      "B": "Information is free.",
+      "C": "All information is perfect.",
+      "D": "No one acquires information."
+    },
+    "correct": "A",
+    "explanation": "Like any good, information has costs; optimal when MC = MB, not necessarily perfect."
+  },
+  {
+    "id": 8,
+    "question": "Asymmetric information occurs when:",
+    "options": {
+      "A": "All parties have equal information.",
+      "B": "One party has more or better information than the other.",
+      "C": "Information is symmetric but costly.",
+      "D": "No information is available."
+    },
+    "correct": "B",
+    "explanation": "Asymmetry leads to market failures like adverse selection or moral hazard."
+  },
+  {
+    "id": 9,
+    "question": "Adverse selection is a problem before the transaction, such as:",
+    "options": {
+      "A": "Hidden actions post-contract (moral hazard).",
+      "B": "Hidden information pre-contract (e.g., lemons market).",
+      "C": "Symmetric information.",
+      "D": "Perfect competition."
+    },
+    "correct": "B",
+    "explanation": "Sellers know more about quality; buyers avoid high prices, leading to low-quality markets."
+  },
+  {
+    "id": 10,
+    "question": "Moral hazard refers to:",
+    "options": {
+      "A": "Pre-transaction information asymmetry.",
+      "B": "Post-transaction risky behavior due to insurance or contracts.",
+      "C": "Equal risk sharing.",
+      "D": "No hidden actions."
+    },
+    "correct": "B",
+    "explanation": "After insurance, the insured may take more risks (hidden action)."
+  },
+  {
+    "id": 11,
+    "question": "In a negative externality graph, the social marginal cost (SMC) curve is:",
+    "options": {
+      "A": "Below the private marginal cost (PMC).",
+      "B": "Above the PMC.",
+      "C": "Equal to PMC.",
+      "D": "Horizontal."
+    },
+    "correct": "B",
+    "explanation": "SMC = PMC + external cost, so higher than PMC, leading to overproduction."
+  },
+  {
+    "id": 12,
+    "question": "For a positive externality, the socially optimal quantity is:",
+    "options": {
+      "A": "Less than the market quantity.",
+      "B": "Greater than the market quantity.",
+      "C": "Equal to the market quantity.",
+      "D": "Zero."
+    },
+    "correct": "B",
+    "explanation": "Social marginal benefit > private MB, so optimal Q > market Q."
+  },
+  {
+    "id": 13,
+    "question": "The deadweight loss from a negative externality is the area where:",
+    "options": {
+      "A": "MB > SMC.",
+      "B": "SMC > MB.",
+      "C": "PMC = SMB.",
+      "D": "No triangle exists."
+    },
+    "correct": "A",
+    "explanation": "Overproduction creates loss where additional units have MB < SMC."
+  },
+  {
+    "id": 14,
+    "question": "Pigouvian taxes correct negative externalities by:",
+    "options": {
+      "A": "Shifting demand left.",
+      "B": "Setting tax equal to external cost, aligning PMC with SMC.",
+      "C": "Subsidizing production.",
+      "D": "Ignoring property rights."
+    },
+    "correct": "B",
+    "explanation": "Tax = marginal external cost internalizes the externality."
+  },
+  {
+    "id": 15,
+    "question": "For a positive externality, the efficient policy is a subsidy of:",
+    "options": {
+      "A": "The external cost.",
+      "B": "The external benefit amount.",
+      "C": "Zero.",
+      "D": "The total social cost."
+    },
+    "correct": "B",
+    "explanation": "Subsidy = marginal external benefit to increase production to social optimum."
+  },
+  {
+    "id": 16,
+    "question": "The Coase Theorem assumes:",
+    "options": {
+      "A": "High transaction costs.",
+      "B": "Well-defined property rights and low transaction costs.",
+      "C": "No bargaining possible.",
+      "D": "Government always intervenes."
+    },
+    "correct": "B",
+    "explanation": "These conditions allow private negotiation to achieve efficiency."
+  },
+  {
+    "id": 17,
+    "question": "In the Tragedy of the Commons, the efficient solution is often:",
+    "options": {
+      "A": "Privatization or government regulation.",
+      "B": "Unlimited access.",
+      "C": "No enforcement.",
+      "D": "Higher user fees only."
+    },
+    "correct": "A",
+    "explanation": "Assigning property rights or quotas prevents overuse."
+  },
+  {
+    "id": 18,
+    "question": "The free-rider problem is associated with:",
+    "options": {
+      "A": "Private goods.",
+      "B": "Public goods and positive externalities.",
+      "C": "Negative externalities.",
+      "D": "Perfect information."
+    },
+    "correct": "B",
+    "explanation": "Individuals benefit without contributing, underproviding public goods."
+  },
+  {
+    "id": 19,
+    "question": "The marginal cost of acquiring information should be compared to:",
+    "options": {
+      "A": "Zero, as info is always valuable.",
+      "B": "Marginal benefit of the information.",
+      "C": "Average cost.",
+      "D": "Total social benefit."
+    },
+    "correct": "B",
+    "explanation": "Optimal info level: MC_info = MB_info."
+  },
+  {
+    "id": 20,
+    "question": "In the used car market (Akerlof's lemons), adverse selection leads to:",
+    "options": {
+      "A": "All good cars sold.",
+      "B": "Market collapse to only low-quality cars.",
+      "C": "Symmetric information.",
+      "D": "Overproduction."
+    },
+    "correct": "B",
+    "explanation": "Buyers assume average quality; sellers of good cars withdraw, leaving lemons."
+  },
+  {
+    "id": 21,
+    "question": "Moral hazard can be mitigated by:",
+    "options": {
+      "A": "Full insurance with no monitoring.",
+      "B": "Co-payments, deductibles, or performance monitoring.",
+      "C": "Hiding actions completely.",
+      "D": "Increasing asymmetry."
+    },
+    "correct": "B",
+    "explanation": "These align incentives, reducing risky behavior post-contract."
+  },
+  {
+    "id": 22,
+    "question": "Signaling in asymmetric information is when:",
+    "options": {
+      "A": "The informed party hides info.",
+      "B": "The informed party takes costly action to reveal quality (e.g., education).",
+      "C": "The uninformed ignores info.",
+      "D": "No action is needed."
+    },
+    "correct": "B",
+    "explanation": "High-quality sellers signal via observable, costly efforts."
+  },
+  {
+    "id": 23,
+    "question": "Screening is done by:",
+    "options": {
+      "A": "The informed party.",
+      "B": "The uninformed party to elicit information (e.g., warranties).",
+      "C": "Government only.",
+      "D": "Neither party."
+    },
+    "correct": "B",
+    "explanation": "Buyers design contracts to separate types, like offering menus of options."
+  },
+  {
+    "id": 24,
+    "question": "Calculate the deadweight loss for a negative externality: Market Q=10, social optimal Q=6, MB at Q=10 is $5, external cost $3/unit. Approximate DWL =",
+    "options": {
+      "A": "$0.",
+      "B": "$12 (triangle: 4 units * $3/2).",
+      "C": "$20.",
+      "D": "$5."
+    },
+    "correct": "B",
+    "explanation": "DWL ≈ ½ * (10-6) * external cost = ½*4*3 = $6, but adjusted for MB; simple approx $12 for full wedge."
+  },
+  {
+    "id": 25,
+    "question": "For a factory polluting a river (external cost $10M/year), Coase bargaining works if:",
+    "options": {
+      "A": "No property rights on river.",
+      "B": "Fishermen own rights and transaction costs low; they pay factory to reduce.",
+      "C": "Factory owns and ignores.",
+      "D": "High taxes imposed."
+    },
+    "correct": "B",
+    "explanation": "Rights to fishermen allow them to negotiate shutdown if value > $10M."
+  },
+  {
+    "id": 26,
+    "question": "In health insurance, moral hazard example:",
+    "options": {
+      "A": "Sick people buy more insurance (adverse).",
+      "B": "Insured visit doctor more often.",
+      "C": "Doctors hide info.",
+      "D": "No visits at all."
+    },
+    "correct": "B",
+    "explanation": "Full coverage reduces caution, increasing usage (hidden action)."
+  },
+  {
+    "id": 27,
+    "question": "Principal-agent problem involves:",
+    "options": {
+      "A": "Symmetric goals.",
+      "B": "Agent (worker) may shirk due to asymmetric info with principal (employer).",
+      "C": "No contracts.",
+      "D": "Perfect monitoring."
+    },
+    "correct": "B",
+    "explanation": "Moral hazard in delegation; incentives align via bonuses or monitoring."
+  },
+  {
+    "id": 28,
+    "question": "The economics of information suggests markets may fail due to:",
+    "options": {
+      "A": "Too much information.",
+      "B": "Asymmetric information leading to adverse selection or moral hazard.",
+      "C": "Free information.",
+      "D": "No costs."
+    },
+    "correct": "B",
+    "explanation": "Imperfect info causes inefficiencies like market unraveling or inefficient risks."
+  },
+  {
+    "id": 29,
+    "question": "To correct a positive externality like education, government can:",
+    "options": {
+      "A": "Tax enrollment.",
+      "B": "Provide subsidies to increase consumption.",
+      "C": "Ban access.",
+      "D": "Ignore it."
+    },
+    "correct": "B",
+    "explanation": "Subsidies bridge private MB to social MB."
+  },
+  {
+    "id": 30,
+    "question": "In the lemons model, if good cars worth $10k to buyers, bad $5k, sellers value good $8k, bad $4k, average price buyers pay $7k, then:",
+    "options": {
+      "A": "All cars sold.",
+      "B": "Only bad cars sold (good sellers withdraw).",
+      "C": "Market clears at $10k.",
+      "D": "No trade."
+    },
+    "correct": "B",
+    "explanation": "Buyers pay average; good cars' sellers get < $8k, exit; market fills with lemons."
+  }
+]

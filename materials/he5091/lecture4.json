@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "question": "Imperfectly competitive firms are known as:",
+    "options": {
+      "A": "Price takers.",
+      "B": "Price setters.",
+      "C": "Quantity adjusters.",
+      "D": "Cost minimizers."
+    },
+    "correct": "B",
+    "explanation": "Imperfectly competitive firms have some ability to set their own price, making them price setters, unlike price takers in perfect competition."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT a type of imperfect competition?",
+    "options": {
+      "A": "Monopoly.",
+      "B": "Oligopoly.",
+      "C": "Monopolistic competition.",
+      "D": "Perfect competition."
+    },
+    "correct": "D",
+    "explanation": "Perfect competition is a form of perfect market structure; the others are imperfect."
+  },
+  {
+    "id": 3,
+    "question": "In monopolistic competition, economic profits in the long run are:",
+    "options": {
+      "A": "Positive.",
+      "B": "Negative.",
+      "C": "Zero.",
+      "D": "Infinite."
+    },
+    "correct": "C",
+    "explanation": "Free entry and exit drive long-run economic profits to zero, similar to perfect competition."
+  },
+  {
+    "id": 4,
+    "question": "Oligopoly is characterized by:",
+    "options": {
+      "A": "Many firms with differentiated products.",
+      "B": "A small number of large firms producing identical or close substitutes.",
+      "C": "One seller with no close substitutes.",
+      "D": "Free entry and price taking."
+    },
+    "correct": "B",
+    "explanation": "Oligopoly features few large firms with interdependent decisions on identical or differentiated products."
+  },
+  {
+    "id": 5,
+    "question": "Market power allows a firm to raise price without:",
+    "options": {
+      "A": "Increasing costs.",
+      "B": "Losing all sales.",
+      "C": "Lowering quantity.",
+      "D": "Facing regulation."
+    },
+    "correct": "B",
+    "explanation": "Market power is the ability to raise price without losing all customers, due to downward-sloping demand."
+  },
+  {
+    "id": 6,
+    "question": "A source of market power is:",
+    "options": {
+      "A": "Free entry into the market.",
+      "B": "Economies of scale leading to natural monopoly.",
+      "C": "Standardized products.",
+      "D": "Price taking behavior."
+    },
+    "correct": "B",
+    "explanation": "Economies of scale can create natural monopolies where one firm supplies the market most efficiently."
+  },
+  {
+    "id": 7,
+    "question": "Network economies occur when:",
+    "options": {
+      "A": "Costs decrease with output.",
+      "B": "Product value increases with more users.",
+      "C": "Inputs are controlled exclusively.",
+      "D": "Patents expire."
+    },
+    "correct": "B",
+    "explanation": "Network economies increase product value as user base grows, enhancing market power."
+  },
+  {
+    "id": 8,
+    "question": "Increasing returns to scale mean:",
+    "options": {
+      "A": "Output increases less than inputs.",
+      "B": "Output increases by a greater percentage than inputs.",
+      "C": "Output equals input percentage.",
+      "D": "Costs remain constant."
+    },
+    "correct": "B",
+    "explanation": "Increasing returns lead to economies of scale, lowering average costs as output rises."
+  },
+  {
+    "id": 9,
+    "question": "For a monopolist, marginal revenue is:",
+    "options": {
+      "A": "Equal to price.",
+      "B": "Greater than price.",
+      "C": "Less than price.",
+      "D": "Zero."
+    },
+    "correct": "C",
+    "explanation": "To sell more, the monopolist lowers price on all units, so MR < P."
+  },
+  {
+    "id": 10,
+    "question": "A monopolist maximizes profit where:",
+    "options": {
+      "A": "MR = ATC.",
+      "B": "P = MC.",
+      "C": "MR = MC.",
+      "D": "P = ATC."
+    },
+    "correct": "C",
+    "explanation": "Profit max occurs where marginal revenue equals marginal cost."
+  },
+  {
+    "id": 11,
+    "question": "The straight-line MR curve for a demand P = a - bQ has slope:",
+    "options": {
+      "A": "-b.",
+      "B": "-2b.",
+      "C": "a.",
+      "D": "2a."
+    },
+    "correct": "B",
+    "explanation": "MR = a - 2bQ, twice the slope of demand."
+  },
+  {
+    "id": 12,
+    "question": "Monopoly creates deadweight loss because:",
+    "options": {
+      "A": "P = MC.",
+      "B": "Output is restricted where P > MC.",
+      "C": "Firms enter freely.",
+      "D": "Costs decrease."
+    },
+    "correct": "B",
+    "explanation": "Monopoly produces less than efficient quantity, where MB > MC, causing inefficiency."
+  },
+  {
+    "id": 13,
+    "question": "Price discrimination requires:",
+    "options": {
+      "A": "Identical prices.",
+      "B": "No resale and separable groups.",
+      "C": "Perfect competition.",
+      "D": "Zero marginal costs."
+    },
+    "correct": "B",
+    "explanation": "To prevent arbitrage, groups must be separable and resale impossible."
+  },
+  {
+    "id": 14,
+    "question": "In Clara's example, social optimum edits:",
+    "options": {
+      "A": "3 papers.",
+      "B": "6 papers.",
+      "C": "7 papers.",
+      "D": "0 papers."
+    },
+    "correct": "B",
+    "explanation": "Social optimum: P = MC, editing 6 papers at $30 each, profit $6."
+  },
+  {
+    "id": 15,
+    "question": "Perfect price discrimination captures:",
+    "options": {
+      "A": "All consumer surplus.",
+      "B": "No economic profit.",
+      "C": "Deadweight loss.",
+      "D": "Only producer surplus."
+    },
+    "correct": "A",
+    "explanation": "Charges each buyer's reservation price, extracting all surplus as profit, no deadweight loss."
+  },
+  {
+    "id": 16,
+    "question": "Hurdle method offers discounts to:",
+    "options": {
+      "A": "All buyers equally.",
+      "B": "Buyers overcoming an obstacle.",
+      "C": "High-price buyers.",
+      "D": "No buyers."
+    },
+    "correct": "B",
+    "explanation": "Discounts for identifiable groups or those completing hurdles like rebates."
+  },
+  {
+    "id": 17,
+    "question": "Cost-plus regulation sets price at:",
+    "options": {
+      "A": "Marginal cost.",
+      "B": "Explicit costs plus markup for implicit.",
+      "C": "Zero profit.",
+      "D": "Market equilibrium."
+    },
+    "correct": "B",
+    "explanation": "Allows recovery of costs plus normal profit, but may exceed MC."
+  },
+  {
+    "id": 18,
+    "question": "A dominant strategy yields higher payoff:",
+    "options": {
+      "A": "Only if others cooperate.",
+      "B": "No matter what others do.",
+      "C": "In Nash equilibrium only.",
+      "D": "Never."
+    },
+    "correct": "B",
+    "explanation": "Dominant strategy is best regardless of opponents' actions."
+  },
+  {
+    "id": 19,
+    "question": "Nash equilibrium is when each player's strategy is:",
+    "options": {
+      "A": "Worst response.",
+      "B": "Best response to others' strategies.",
+      "C": "Random.",
+      "D": "Cooperative."
+    },
+    "correct": "B",
+    "explanation": "No player benefits by unilaterally changing strategy given others' choices."
+  },
+  {
+    "id": 20,
+    "question": "Prisoner's dilemma features:",
+    "options": {
+      "A": "Mutual cooperation as dominant.",
+      "B": "Defection as dominant, worse mutual outcome.",
+      "C": "No dominant strategies.",
+      "D": "Always cooperation."
+    },
+    "correct": "B",
+    "explanation": "Each defects (dominant), leading to worse payoffs than mutual cooperation."
+  },
+  {
+    "id": 21,
+    "question": "A cartel is unstable because:",
+    "options": {
+      "A": "Firms want to cheat for more profit.",
+      "B": "Legal enforcement.",
+      "C": "Zero marginal costs.",
+      "D": "Perfect information."
+    },
+    "correct": "A",
+    "explanation": "Incentive to undercut price captures whole market, as MC=0 in example."
+  },
+  {
+    "id": 22,
+    "question": "Tit-for-tat in repeated games:",
+    "options": {
+      "A": "Always defects.",
+      "B": "Mirrors opponent's last move.",
+      "C": "Cooperates forever.",
+      "D": "Randomizes."
+    },
+    "correct": "B",
+    "explanation": "Starts cooperating, then copies opponent's previous action to punish defection."
+  },
+  {
+    "id": 23,
+    "question": "In decision trees, timing matters when:",
+    "options": {
+      "A": "Moves are simultaneous.",
+      "B": "First mover influences second's response.",
+      "C": "No interdependence.",
+      "D": "Payoffs are symmetric."
+    },
+    "correct": "B",
+    "explanation": "Sequential moves allow adjustment; trees show sequence unlike payoff matrices."
+  },
+  {
+    "id": 24,
+    "question": "In Sony/Samsung example with simultaneous decisions, Nash equilibria are:",
+    "options": {
+      "A": "Only one, both quad core.",
+      "B": "Two: one quad, one not.",
+      "C": "None.",
+      "D": "Both no quad."
+    },
+    "correct": "B",
+    "explanation": "Top-right and bottom-left: differentiation yields higher joint profits."
+  },
+  {
+    "id": 25,
+    "question": "A credible threat is one the threatener:",
+    "options": {
+      "A": "Bluffs about.",
+      "B": "Will carry out in own interest.",
+      "C": "Others ignore.",
+      "D": "Never follows through."
+    },
+    "correct": "B",
+    "explanation": "Credible if best for threatener to execute, influencing opponent's choice."
+  },
+  {
+    "id": 26,
+    "question": "In remote office, commitment problem arises because:",
+    "options": {
+      "A": "Manager can't promise honesty credibly.",
+      "B": "Owner always opens office.",
+      "C": "No payoffs.",
+      "D": "Simultaneous moves."
+    },
+    "correct": "A",
+    "explanation": "Manager may defect post-opening; device needed for credible honesty."
+  },
+  {
+    "id": 27,
+    "question": "Game theory assumes players maximize:",
+    "options": {
+      "A": "Social welfare.",
+      "B": "Own payoffs.",
+      "C": "Cooperation.",
+      "D": "Revenge."
+    },
+    "correct": "B",
+    "explanation": "Self-interest drives strategies; alters outcomes via preferences like sympathy."
+  },
+  {
+    "id": 28,
+    "question": "Exceptions to self-interest include:",
+    "options": {
+      "A": "Always defecting.",
+      "B": "Revenge or passing unfair opportunities.",
+      "C": "Ignoring payoffs.",
+      "D": "Random choices."
+    },
+    "correct": "B",
+    "explanation": "Preferences like fairness or spite can lead to non-self-maximizing actions."
+  },
+  {
+    "id": 29,
+    "question": "For Q* where MR=MC for P=15-2Q, MC=Q, Q* is:",
+    "options": {
+      "A": "3.",
+      "B": "5.",
+      "C": "15.",
+      "D": "7.5."
+    },
+    "correct": "A",
+    "explanation": "MR=15-4Q=MC=Q → 15=5Q → Q=3; P=15-2(3)=9."
+  },
+  {
+    "id": 30,
+    "question": "Anti-trust laws aim to:",
+    "options": {
+      "A": "Encourage monopolies.",
+      "B": "Limit deadweight loss from market power.",
+      "C": "Increase economies of scale.",
+      "D": "Ban all patents."
+    },
+    "correct": "B",
+    "explanation": "Enhance competition to reduce inefficiency, though may limit innovation incentives."
+  }
+]

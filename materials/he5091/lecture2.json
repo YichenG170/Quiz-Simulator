@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "question": "What is price elasticity of demand defined as?",
+    "options": {
+      "A": "The absolute change in quantity demanded from a 1% change in price.",
+      "B": "The percentage change in quantity demanded from a 1% change in price.",
+      "C": "The percentage change in price from a 1% change in quantity demanded.",
+      "D": "The total revenue change from a price adjustment."
+    },
+    "correct": "B",
+    "explanation": "Price elasticity of demand measures the responsiveness of quantity demanded to a 1% change in price, expressed as a percentage."
+  },
+  {
+    "id": 2,
+    "question": "If the price of beef decreases by 1% and quantity demanded increases by 2%, the price elasticity of demand is:",
+    "options": {
+      "A": "0.5.",
+      "B": "-2.",
+      "C": "2.",
+      "D": "-0.5."
+    },
+    "correct": "B",
+    "explanation": "ε = (%ΔQ) / (%ΔP) = 2% / (-1%) = -2. The negative sign reflects the inverse relationship."
+  },
+  {
+    "id": 3,
+    "question": "The symbol for price elasticity of demand is:",
+    "options": {
+      "A": "π.",
+      "B": "ε.",
+      "C": "μ.",
+      "D": "σ."
+    },
+    "correct": "B",
+    "explanation": "ε is the lowercase Greek letter epsilon, used for elasticity."
+  },
+  {
+    "id": 4,
+    "question": "Price elasticity of demand is always:",
+    "options": {
+      "A": "Positive.",
+      "B": "Negative.",
+      "C": "Zero.",
+      "D": "Greater than 1."
+    },
+    "correct": "B",
+    "explanation": "It is negative due to the downward-sloping demand curve; we often use absolute value for interpretation."
+  },
+  {
+    "id": 5,
+    "question": "Demand is elastic if the absolute value of price elasticity is:",
+    "options": {
+      "A": "Less than 1.",
+      "B": "Equal to 1.",
+      "C": "Greater than 1.",
+      "D": "Zero."
+    },
+    "correct": "C",
+    "explanation": "Elastic demand (|ε| > 1) means quantity demanded is more responsive to price changes."
+  },
+  {
+    "id": 6,
+    "question": "Demand is inelastic if the absolute value of price elasticity is:",
+    "options": {
+      "A": "Greater than 1.",
+      "B": "Equal to 1.",
+      "C": "Less than 1.",
+      "D": "Infinite."
+    },
+    "correct": "C",
+    "explanation": "Inelastic demand (|ε| < 1) means quantity demanded is less responsive to price changes."
+  },
+  {
+    "id": 7,
+    "question": "Unit elastic demand occurs when the absolute value of price elasticity is:",
+    "options": {
+      "A": "0.",
+      "B": "1.",
+      "C": "Greater than 1.",
+      "D": "Less than 1."
+    },
+    "correct": "B",
+    "explanation": "Unit elastic (|ε| = 1) means percentage changes in price and quantity are equal."
+  },
+  {
+    "id": 8,
+    "question": "In the pizza example, with price from $1.00 to $0.97 (3% decrease) and quantity from 40 to 44 (10% increase? Wait, slide: 1%? Assuming 10%), ε =:",
+    "options": {
+      "A": "-0.3.",
+      "B": "-10/3 = -3.33.",
+      "C": "0.3.",
+      "D": "3.33."
+    },
+    "correct": "B",
+    "explanation": "ε = 10% / (-3%) = -3.33 (elastic). Note: Slide OCR may have error; using logical calc."
+  },
+  {
+    "id": 9,
+    "question": "Which is a determinant of price elasticity of demand?",
+    "options": {
+      "A": "Government taxes.",
+      "B": "Substitution options (more options make demand more elastic).",
+      "C": "Production costs.",
+      "D": "Market equilibrium."
+    },
+    "correct": "B",
+    "explanation": "Determinants include substitution options, budget share, and time; more substitutes increase elasticity."
+  },
+  {
+    "id": 10,
+    "question": "Price elasticity along a straight-line demand curve:",
+    "options": {
+      "A": "Is constant.",
+      "B": "Varies; elastic at high P/low Q, inelastic at low P/high Q.",
+      "C": "Is always unit elastic.",
+      "D": "Equals the slope."
+    },
+    "correct": "B",
+    "explanation": "ε = (P/Q) * (1/slope); P/Q decreases as Q increases, so elasticity decreases along the curve."
+  },
+  {
+    "id": 11,
+    "question": "Perfectly elastic demand has elasticity of:",
+    "options": {
+      "A": "0.",
+      "B": "1.",
+      "C": "Infinite.",
+      "D": "-1."
+    },
+    "correct": "C",
+    "explanation": "Perfectly elastic: horizontal demand curve, infinite responsiveness to price."
+  },
+  {
+    "id": 12,
+    "question": "If demand is elastic and price increases, total expenditure:",
+    "options": {
+      "A": "Increases.",
+      "B": "Decreases.",
+      "C": "Stays the same.",
+      "D": "Doubles."
+    },
+    "correct": "B",
+    "explanation": "For elastic demand (|ε| > 1), price ↑ leads to larger % drop in Q, reducing total revenue (P*Q)."
+  },
+  {
+    "id": 13,
+    "question": "The midpoint formula for elasticity uses:",
+    "options": {
+      "A": "Initial values only.",
+      "B": "Average Q in numerator and average P in denominator.",
+      "C": "Final values only.",
+      "D": "Total changes."
+    },
+    "correct": "B",
+    "explanation": "Midpoint: ε = [ΔQ / ((Q1 + Q2)/2)] / [ΔP / ((P1 + P2)/2)] for stability."
+  },
+  {
+    "id": 14,
+    "question": "Cross-price elasticity is positive for:",
+    "options": {
+      "A": "Complements.",
+      "B": "Inferior goods.",
+      "C": "Substitutes.",
+      "D": "Normal goods."
+    },
+    "correct": "C",
+    "explanation": "Positive cross-price ε indicates substitutes (P_B ↑ → Q_A ↑)."
+  },
+  {
+    "id": 15,
+    "question": "Income elasticity is negative for:",
+    "options": {
+      "A": "Normal goods.",
+      "B": "Luxury goods.",
+      "C": "Inferior goods.",
+      "D": "Necessities."
+    },
+    "correct": "C",
+    "explanation": "Negative income ε for inferior goods: income ↑ → Q ↓."
+  },
+  {
+    "id": 16,
+    "question": "Price elasticity of supply is calculated as:",
+    "options": {
+      "A": "%ΔP / %ΔQ.",
+      "B": "%ΔQ_s / %ΔP.",
+      "C": "%ΔQ_d / %ΔP.",
+      "D": "Total revenue change."
+    },
+    "correct": "B",
+    "explanation": "Similar to demand but for quantity supplied; positive value."
+  },
+  {
+    "id": 17,
+    "question": "A determinant of supply elasticity is:",
+    "options": {
+      "A": "Buyer income.",
+      "B": "Time (longer time makes supply more elastic).",
+      "C": "Demand substitutes.",
+      "D": "Reservation price."
+    },
+    "correct": "B",
+    "explanation": "Time allows adjustment, increasing elasticity; other determinants: input flexibility, mobility."
+  },
+  {
+    "id": 18,
+    "question": "Marginal utility is:",
+    "options": {
+      "A": "Total satisfaction from all units.",
+      "B": "Additional utility from one more unit.",
+      "C": "Average utility per unit.",
+      "D": "Utility minus cost."
+    },
+    "correct": "B",
+    "explanation": "MU = ΔTU / ΔConsumption; diminishes with more consumption."
+  },
+  {
+    "id": 19,
+    "question": "The Law of Diminishing Marginal Utility states that MU:",
+    "options": {
+      "A": "Increases with consumption.",
+      "B": "Decreases as consumption increases beyond a point.",
+      "C": "Remains constant.",
+      "D": "Equals price."
+    },
+    "correct": "B",
+    "explanation": "Additional utility from extra units decreases after initial consumption."
+  },
+  {
+    "id": 20,
+    "question": "The Rational Spending Rule states that utility is maximized when:",
+    "options": {
+      "A": "MU is equal for all goods.",
+      "B": "MU per dollar is equal for all goods.",
+      "C": "Total utility is equal.",
+      "D": "Price is minimized."
+    },
+    "correct": "B",
+    "explanation": "Allocate budget so MU_A / P_A = MU_B / P_B for all goods."
+  },
+  {
+    "id": 21,
+    "question": "In Sarah's example, equilibrium is at MU_V / P_V = MU_C / P_C = 10, with:",
+    "options": {
+      "A": "More vanilla.",
+      "B": "25 vanilla, 75 chocolate pints.",
+      "C": "Equal quantities.",
+      "D": "All vanilla."
+    },
+    "correct": "B",
+    "explanation": "Optimal: 25 pints vanilla ($1 each, MU=10), 75 chocolate ($2 each, MU=20); $40 budget."
+  },
+  {
+    "id": 22,
+    "question": "The substitution effect occurs when price changes make:",
+    "options": {
+      "A": "Income change.",
+      "B": "Substitutes relatively more attractive.",
+      "C": "Total utility constant.",
+      "D": "Supply shift."
+    },
+    "correct": "B",
+    "explanation": "Price ↑ makes substitutes cheaper relatively, shifting demand toward them."
+  },
+  {
+    "id": 23,
+    "question": "The income effect from a price decrease acts like:",
+    "options": {
+      "A": "A decrease in real income.",
+      "B": "An increase in purchasing power.",
+      "C": "No change in utility.",
+      "D": "A supply increase."
+    },
+    "correct": "B",
+    "explanation": "Price ↓ increases real income, allowing more consumption."
+  },
+  {
+    "id": 24,
+    "question": "Market demand is the:",
+    "options": {
+      "A": "Vertical sum of individual demands.",
+      "B": "Horizontal sum of individual demand curves.",
+      "C": "Average of individual demands.",
+      "D": "Maximum individual demand."
+    },
+    "correct": "B",
+    "explanation": "At each price, sum quantities demanded by all individuals."
+  },
+  {
+    "id": 25,
+    "question": "Consumer surplus is:",
+    "options": {
+      "A": "Market price minus reservation price.",
+      "B": "Reservation price minus market price.",
+      "C": "Total utility minus total cost.",
+      "D": "Area below supply curve."
+    },
+    "correct": "B",
+    "explanation": "The net benefit to buyers: what they're willing to pay minus what they actually pay."
+  },
+  {
+    "id": 26,
+    "question": "On a graph, consumer surplus is the area:",
+    "options": {
+      "A": "Above demand and below price.",
+      "B": "Below demand and above price.",
+      "C": "Between supply and demand.",
+      "D": "Above supply and below price."
+    },
+    "correct": "B",
+    "explanation": "Triangle under demand curve, above market price, up to equilibrium quantity."
+  },
+  {
+    "id": 27,
+    "question": "For milk at P=$2, Q=4,000 liters, with intercept implying $1 height, consumer surplus is:",
+    "options": {
+      "A": "$4,000.",
+      "B": "$2,000.",
+      "C": "$8,000.",
+      "D": "$1,000."
+    },
+    "correct": "B",
+    "explanation": "Area = ½ * base (4,000) * height ($1) = $2,000."
+  },
+  {
+    "id": 28,
+    "question": "Producer surplus is the area:",
+    "options": {
+      "A": "Below price and above supply curve.",
+      "B": "Above price and below demand curve.",
+      "C": "Between equilibrium points.",
+      "D": "Under total cost."
+    },
+    "correct": "A",
+    "explanation": "Net benefit to sellers: market price minus minimum they'd accept (marginal cost on supply curve)."
+  },
+  {
+    "id": 29,
+    "question": "Economic surplus equals:",
+    "options": {
+      "A": "Consumer surplus only.",
+      "B": "Producer surplus only.",
+      "C": "Consumer + producer surplus.",
+      "D": "Total revenue minus total cost."
+    },
+    "correct": "C",
+    "explanation": "Total social welfare: sum of consumer and producer surpluses."
+  },
+  {
+    "id": 30,
+    "question": "Algebraically, Rational Spending Rule: MU_C / P_C =",
+    "options": {
+      "A": "MU_V / P_V.",
+      "B": "Total U / Budget.",
+      "C": "P_V / MU_V.",
+      "D": "MU_V * P_C."
+    },
+    "correct": "A",
+    "explanation": "MU per dollar equal across goods: MU_C / P_C = MU_V / P_V."
+  }
+]

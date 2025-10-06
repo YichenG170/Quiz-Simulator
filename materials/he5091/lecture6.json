@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "question": "Health care spending tends to grow faster than income as an economy develops due to:",
+    "options": {
+      "A": "Decreased quality of services.",
+      "B": "Improved quality of tests, procedures, and drugs.",
+      "C": "Reduced use of insurance.",
+      "D": "Lower third-party payments."
+    },
+    "correct": "B",
+    "explanation": "Part of the increase is due to improved quality of medical advancements."
+  },
+  {
+    "id": 2,
+    "question": "The third-party payment system in health care includes:",
+    "options": {
+      "A": "Only patient direct payments.",
+      "B": "Growth in insurance use, employer-provided, and government-provided national insurance.",
+      "C": "No role for employers.",
+      "D": "Exclusion of government programs."
+    },
+    "correct": "B",
+    "explanation": "Third-party systems involve insurers, employers, and governments paying on behalf of patients."
+  },
+  {
+    "id": 3,
+    "question": "In the health care delivery model for the employed, the sequence is:",
+    "options": {
+      "A": "Patient pays provider, then insurance reimburses patient.",
+      "B": "Employer pays insurance, provider bills insurance, insurance pays provider.",
+      "C": "Government pays provider directly.",
+      "D": "Employee pays full cost upfront."
+    },
+    "correct": "B",
+    "explanation": "Employer funds insurance; provider cares for patient with co-pay, bills insurance."
+  },
+  {
+    "id": 4,
+    "question": "The cost-benefit test for efficient health care allocation requires:",
+    "options": {
+      "A": "Performing services only if costs exceed benefits.",
+      "B": "Benefits exceeding costs.",
+      "C": "Ignoring marginal costs.",
+      "D": "Focusing solely on willingness to pay."
+    },
+    "correct": "B",
+    "explanation": "Efficient if marginal benefit > marginal cost."
+  },
+  {
+    "id": 5,
+    "question": "Benefits in health care are complicated to measure because:",
+    "options": {
+      "A": "Costs are hard to quantify.",
+      "B": "Willingness to pay is usual, but some can't pay for basics; society assumes responsibility.",
+      "C": "Third-party systems eliminate benefits.",
+      "D": "Marginal costs are zero."
+    },
+    "correct": "B",
+    "explanation": "Benefits measured by willingness to pay, complicated by inability to pay and societal role."
+  },
+  {
+    "id": 6,
+    "question": "In the hospital stay example, with full insurance (MC=0), David stays:",
+    "options": {
+      "A": "1 day.",
+      "B": "0 days.",
+      "C": "3 days.",
+      "D": "Unlimited days."
+    },
+    "correct": "C",
+    "explanation": "Zero marginal cost leads to consumption until MB=0, staying 3 days."
+  },
+  {
+    "id": 7,
+    "question": "Full insurance coverage creates waste because:",
+    "options": {
+      "A": "Extra benefit > extra cost.",
+      "B": "Extra benefit < extra cost (e.g., $300 benefit vs. $600 cost for extra days).",
+      "C": "No co-pays.",
+      "D": "Patients stay shorter."
+    },
+    "correct": "B",
+    "explanation": "Overconsumption where MB < MC, leading to lost surplus."
+  },
+  {
+    "id": 8,
+    "question": "Research on deductibles shows patients with $1,000 deductibles spent:",
+    "options": {
+      "A": "More than first-dollar coverage.",
+      "B": "40-50% less, with same health outcomes.",
+      "C": "The same amount.",
+      "D": "Twice as much."
+    },
+    "correct": "B",
+    "explanation": "Higher out-of-pocket costs reduce consumption without harming outcomes."
+  },
+  {
+    "id": 9,
+    "question": "Asymmetric information in health care leads to doctors recommending:",
+    "options": {
+      "A": "Fewer tests to save costs.",
+      "B": "Additional prescriptions and tests to earn more.",
+      "C": "Only basic services.",
+      "D": "No treatments."
+    },
+    "correct": "B",
+    "explanation": "Doctors' superior information incentivizes over-treatment."
+  },
+  {
+    "id": 10,
+    "question": "Fixed annual fee physicians have:",
+    "options": {
+      "A": "Incentives for expensive tests.",
+      "B": "Reduced incentives for prescribing unnecessary tests.",
+      "C": "Higher fees per test.",
+      "D": "No diagnoses."
+    },
+    "correct": "B",
+    "explanation": "Fixed fees remove per-service incentives, reducing over-treatment."
+  },
+  {
+    "id": 11,
+    "question": "Adverse selection in health insurance means:",
+    "options": {
+      "A": "Healthy people buy more insurance.",
+      "B": "High-risk individuals disproportionately buy, raising premiums and spiraling costs.",
+      "C": "No one buys insurance.",
+      "D": "Low premiums for all."
+    },
+    "correct": "B",
+    "explanation": "Hidden information leads to adverse selection, making insurance unaffordable."
+  },
+  {
+    "id": 12,
+    "question": "Employer-provided insurance overcomes adverse selection by:",
+    "options": {
+      "A": "Excluding high-risk workers.",
+      "B": "Pooling risks across employees, cheaper than individual policies.",
+      "C": "Charging higher premiums to sick workers.",
+      "D": "Requiring no medical history."
+    },
+    "correct": "B",
+    "explanation": "Group pooling reduces risk for insurers."
+  },
+  {
+    "id": 13,
+    "question": "National health insurance provisions include:",
+    "options": {
+      "A": "Discrimination for preexisting conditions.",
+      "B": "Nondiscrimination, universal coverage, subsidies for low-income.",
+      "C": "Exclusion of all individuals.",
+      "D": "No subsidies."
+    },
+    "correct": "B",
+    "explanation": "Key provisions ensure access and equity."
+  },
+  {
+    "id": 14,
+    "question": "Negative externalities lead to:",
+    "options": {
+      "A": "Underproduction.",
+      "B": "Overproduction of polluting goods.",
+      "C": "Zero pollution.",
+      "D": "Efficient markets."
+    },
+    "correct": "B",
+    "explanation": "Private costs < social costs, so too much production."
+  },
+  {
+    "id": 15,
+    "question": "Efficient pollution reduction requires:",
+    "options": {
+      "A": "Equal reduction across all firms.",
+      "B": "Marginal abatement cost equal for all polluters.",
+      "C": "Highest cost reductions first.",
+      "D": "No taxes."
+    },
+    "correct": "B",
+    "explanation": "Efficiency: equalize MC across sources."
+  },
+  {
+    "id": 16,
+    "question": "In the pollution example, taxing at $101/ton results in total cost of:",
+    "options": {
+      "A": "$580/day.",
+      "B": "$280/day.",
+      "C": "$0.",
+      "D": "$600/day."
+    },
+    "correct": "B",
+    "explanation": "Sludge to B ($100), NW to D ($180), total $280; saves $300 vs. regulation."
+  },
+  {
+    "id": 17,
+    "question": "Auctioning permits at $101 leads to:",
+    "options": {
+      "A": "Sludge process B, NW process D.",
+      "B": "Both process C.",
+      "C": "No reductions.",
+      "D": "Process E for both."
+    },
+    "correct": "A",
+    "explanation": "Firms buy permits where benefit > price; Sludge 3, NW 1."
+  },
+  {
+    "id": 18,
+    "question": "Advantages of pollution permit auctions include:",
+    "options": {
+      "A": "High administrative costs.",
+      "B": "Low-cost control, predictable environment, government sets target.",
+      "C": "No revenue.",
+      "D": "Inefficient reductions."
+    },
+    "correct": "B",
+    "explanation": "Utilizes least-cost abatement; fees offset taxes."
+  },
+  {
+    "id": 19,
+    "question": "Carbon taxes on petrol encourage:",
+    "options": {
+      "A": "More driving.",
+      "B": "Fuel-efficient cars, carpooling, less distant travel.",
+      "C": "Lower prices.",
+      "D": "No changes."
+    },
+    "correct": "B",
+    "explanation": "Higher prices reduce emissions via behavioral changes."
+  },
+  {
+    "id": 20,
+    "question": "Optimal workplace safety is where:",
+    "options": {
+      "A": "Costs > benefits.",
+      "B": "Marginal cost = marginal benefit (cost-benefit principle).",
+      "C": "No regulations.",
+      "D": "Maximum safety regardless of cost."
+    },
+    "correct": "B",
+    "explanation": "Balance costs and benefits of safety."
+  },
+  {
+    "id": 21,
+    "question": "In competitive labor markets, low safety leads to:",
+    "options": {
+      "A": "Higher wages to compensate.",
+      "B": "Loss of workers to safer firms.",
+      "C": "No impact.",
+      "D": "Government fines only."
+    },
+    "correct": "B",
+    "explanation": "Workers prefer safer jobs, forcing employers to provide safety."
+  },
+  {
+    "id": 22,
+    "question": "Public goods are:",
+    "options": {
+      "A": "Rival and excludable.",
+      "B": "Non-rival and non-excludable.",
+      "C": "Rival but excludable.",
+      "D": "Non-rival but excludable."
+    },
+    "correct": "B",
+    "explanation": "Consumption by one doesn't reduce availability; hard to exclude non-payers."
+  },
+  {
+    "id": 23,
+    "question": "The free-rider problem arises in public goods because:",
+    "options": {
+      "A": "Costs are recovered easily.",
+      "B": "Non-payers can consume without paying.",
+      "C": "MC > 0.",
+      "D": "Rivalry exists."
+    },
+    "correct": "B",
+    "explanation": "Non-excludability leads to underprovision."
+  },
+  {
+    "id": 24,
+    "question": "Market demand for public goods uses:",
+    "options": {
+      "A": "Horizontal summation.",
+      "B": "Vertical summation of individual demands.",
+      "C": "No summation.",
+      "D": "Average willingness to pay."
+    },
+    "correct": "B",
+    "explanation": "Sum reservation prices vertically for joint consumption."
+  },
+  {
+    "id": 25,
+    "question": "Optimal public good quantity is where:",
+    "options": {
+      "A": "P = 0.",
+      "B": "Demand (sum MB) = MC.",
+      "C": "MC = 0 only.",
+      "D": "Private demand = MC."
+    },
+    "correct": "B",
+    "explanation": "Sum of marginal benefits equals marginal cost."
+  },
+  {
+    "id": 26,
+    "question": "In the parkland example, optimal acres (A*) is where:",
+    "options": {
+      "A": "Demand intersects MC at 200 acres.",
+      "B": "Demand > MC at 140 acres? Wait, graph shows intersection at A*.",
+      "C": "Zero acres.",
+      "D": "Unlimited."
+    },
+    "correct": "B",
+    "explanation": "Optimal where vertical demand = MC."
+  },
+  {
+    "id": 27,
+    "question": "Government provision disadvantages include:",
+    "options": {
+      "A": "One-size-fits-all, some pay for unwanted goods.",
+      "B": "Always efficient.",
+      "C": "No free-riders.",
+      "D": "Low costs only."
+    },
+    "correct": "A",
+    "explanation": "Uniform provision ignores preferences."
+  },
+  {
+    "id": 28,
+    "question": "Private provision via advertising may lead to:",
+    "options": {
+      "A": "Optimal surplus always.",
+      "B": "Inefficiency if advertisers prefer large audiences over high-value ones.",
+      "C": "No free-riders.",
+      "D": "Zero costs."
+    },
+    "correct": "B",
+    "explanation": "Got Talent (larger audience) wins over Masterchef (higher value)."
+  },
+  {
+    "id": 29,
+    "question": "Crowding out from deficits causes:",
+    "options": {
+      "A": "Increased private investment.",
+      "B": "Higher interest rates reducing private borrowing.",
+      "C": "Lower taxes.",
+      "D": "No impact."
+    },
+    "correct": "B",
+    "explanation": "Government borrowing raises rates, crowding out private investment."
+  },
+  {
+    "id": 30,
+    "question": "Taxes on externalities like carbon emissions:",
+    "options": {
+      "A": "Decrease efficiency.",
+      "B": "Increase efficiency by internalizing costs.",
+      "C": "Have no effect.",
+      "D": "Only reduce revenue."
+    },
+    "correct": "B",
+    "explanation": "Pigouvian taxes align private and social costs."
+  }
+]

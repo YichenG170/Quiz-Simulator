@@ -1,0 +1,299 @@
+[
+  {
+    "id": 1,
+    "question": "When using ER diagram to capture many-to-one relationship, which entity should the arrow point to?",
+    "options": {
+      "A": "Entity at the one side.",
+      "B": "Entity at the many side.",
+      "C": "Both one-side and many-side entities.",
+      "D": "Any entity."
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 2,
+    "question": "What is a database?",
+    "options": {
+      "A": "A website that displays data.",
+      "B": "Software to manage (store and retrieve) data.",
+      "C": "A collection of data specifically organized to allow efficient retrieval by a computer.",
+      "D": "A computer with a hard disk to store data."
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 3,
+    "question": "What does a rectangle in an ER diagram represent?",
+    "options": {
+      "A": "An entity.",
+      "B": "A person or object in the real world.",
+      "C": "A set of entities.",
+      "D": "Data about an entity."
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 4,
+    "question": "Not all entity sets need to have keys.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 5,
+    "question": "You use a rounded arrow in an ER diagram to point to an entity set when you want to:",
+    "options": {
+      "A": "indicate referential integrity constraint.",
+      "B": "indicate roles.",
+      "C": "indicate key constraint.",
+      "D": "All of the above."
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 6,
+    "question": "A key in an entity set may only have one attribute.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 7,
+    "question": "You can use referential integrity constraint in a many-to-many relationship.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 8,
+    "question": "A weak entity set always has referential integrity with the supporting entity set.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 9,
+    "question": "We use subclasses in ER diagrams when:",
+    "options": {
+      "A": "a subclass has attribute(s) that is (are) absent from the superclass.",
+      "B": "a subclass has its own relationship with some other entity sets.",
+      "C": "we need a stronger supporting entity set.",
+      "D": "All of the above."
+    },
+    "correct": [
+      "A",
+      "B"
+    ],
+    "type": "multiple",
+    "explanation": "This is a multiple choice question from SC2002 course materials."
+  },
+  {
+    "id": 10,
+    "question": "Using the NULL approach when mapping subclass to relational schema,",
+    "options": {
+      "A": "a record may appear in multiple relations.",
+      "B": "a record may appear only in one relation.",
+      "C": "a record may appear in a subclass relation.",
+      "D": "None of the above."
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 11,
+    "question": "When mapping ER diagram to relational schema, a subclass can be converted into relational schema using:",
+    "options": {
+      "A": "the subclass approach.",
+      "B": "the ER approach.",
+      "C": "the OO approach.",
+      "D": "the NULL approach."
+    },
+    "correct": [
+      "B",
+      "C",
+      "D"
+    ],
+    "type": "multiple",
+    "explanation": "This is a multiple choice question from SC2002 course materials."
+  },
+  {
+    "id": 12,
+    "question": "When mapping ER diagram to relational schema, a weak entity set's supporting relationship becomes:",
+    "options": {
+      "A": "relation.",
+      "B": "relational schema.",
+      "C": "table.",
+      "D": "None of the above."
+    },
+    "correct": "D",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 13,
+    "question": "When mapping ER diagram to relational schema, a many-to-many relationship becomes:",
+    "options": {
+      "A": "relation.",
+      "B": "relational schema.",
+      "C": "table.",
+      "D": "All of the above."
+    },
+    "correct": "D",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 14,
+    "question": "Given E->G, GC->D, we infer that EC->D.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 15,
+    "question": "If relational schema is not properly formulated, the following anomalies may occur:",
+    "options": {
+      "A": "Certain attributes may have duplicate values in the table.",
+      "B": "Certain attributes may be duplicated in the table.",
+      "C": "Certain rows in the table may be duplicates.",
+      "D": "Certain rows and columns in the table may be duplicates."
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 16,
+    "question": "Given that M->C, MC->E, ME->B, we infer that M->B.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 17,
+    "question": "Why do anomalies occur in tables?",
+    "options": {
+      "A": "There is a bad combination of attributes.",
+      "B": "Certain attributes may appear more than once in the table.",
+      "C": "There is one or more relationships among attributes.",
+      "D": "There are functional dependencies among attributes."
+    },
+    "correct": [
+      "A",
+      "C",
+      "D"
+    ],
+    "type": "multiple",
+    "explanation": "This is a multiple choice question from SC2002 course materials."
+  },
+  {
+    "id": 18,
+    "question": "With respect to the definition of functional dependency given in the lecture, an empty table satisfies all functional dependencies in the table.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 19,
+    "question": "A candidate key is a key.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 20,
+    "question": "Primary keys and secondary keys are not candidate keys.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 21,
+    "question": "To prove that X->Y does not hold, we only need to show that {X}+ does not contain Y.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 22,
+    "question": "A key is a set of attributes in a table that decides some other attributes.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 23,
+    "question": "If {A}+ = {A, B, C}, then A->C.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  },
+  {
+    "id": 24,
+    "question": "If the closure of a set A of attributes contains all attributes in table R, then A might be a key (or superkey) of R.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "This is a single choice question from SC2002 course materials."
+  }
+]

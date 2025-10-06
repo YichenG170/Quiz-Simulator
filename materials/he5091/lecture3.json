@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "question": "The goal of a profit-maximizing firm is to maximize:",
+    "options": {
+      "A": "Total revenue only.",
+      "B": "Profit, which is total revenue minus total cost (including explicit and implicit costs).",
+      "C": "Market share.",
+      "D": "Fixed costs."
+    },
+    "correct": "B",
+    "explanation": "Profit = TR - TC, where TC includes both explicit (payments) and implicit (opportunity) costs."
+  },
+  {
+    "id": 2,
+    "question": "In a perfectly competitive market, a firm's demand curve is:",
+    "options": {
+      "A": "Downward sloping.",
+      "B": "Upward sloping.",
+      "C": "Perfectly elastic (horizontal) at the market price.",
+      "D": "The same as the market demand curve."
+    },
+    "correct": "C",
+    "explanation": "Firms are price takers; they can sell any quantity at the market price without affecting it."
+  },
+  {
+    "id": 3,
+    "question": "Factors of production include:",
+    "options": {
+      "A": "Only labor and capital.",
+      "B": "Land, labor, capital, and entrepreneurship.",
+      "C": "Only fixed inputs.",
+      "D": "Consumer preferences."
+    },
+    "correct": "B",
+    "explanation": "These are the classic inputs used to produce goods and services."
+  },
+  {
+    "id": 4,
+    "question": "The short run is defined as the period where:",
+    "options": {
+      "A": "All inputs are variable.",
+      "B": "At least one input is fixed.",
+      "C": "No production occurs.",
+      "D": "Prices are fixed."
+    },
+    "correct": "B",
+    "explanation": "In the short run, some factors (e.g., capital) are fixed; in the long run, all are variable."
+  },
+  {
+    "id": 5,
+    "question": "The Law of Diminishing Returns states that, with fixed factors, the marginal product of the variable factor will:",
+    "options": {
+      "A": "Increase indefinitely.",
+      "B": "Eventually decline.",
+      "C": "Remain constant.",
+      "D": "Equal zero."
+    },
+    "correct": "B",
+    "explanation": "As more variable input is added to fixed inputs, additional output decreases due to congestion or limits."
+  },
+  {
+    "id": 6,
+    "question": "Fixed cost (FC) is:",
+    "options": {
+      "A": "Payments for variable inputs.",
+      "B": "Sum of payments for fixed inputs (unchanged with output).",
+      "C": "Marginal cost.",
+      "D": "Total revenue."
+    },
+    "correct": "B",
+    "explanation": "FC does not vary with output level, e.g., rent for a machine."
+  },
+  {
+    "id": 7,
+    "question": "Marginal cost (MC) is the:",
+    "options": {
+      "A": "Total cost divided by quantity.",
+      "B": "Change in total cost divided by change in output.",
+      "C": "Fixed cost per unit.",
+      "D": "Average variable cost."
+    },
+    "correct": "B",
+    "explanation": "MC = ΔTC / ΔQ; guides decisions on additional output."
+  },
+  {
+    "id": 8,
+    "question": "Using the table (e.g., from 0 to 1 worker: Q=80, TC=52, FC=40), MC for the first 80 bottles is:",
+    "options": {
+      "A": "$0.40.",
+      "B": "$0.15.",
+      "C": "$52.",
+      "D": "$40."
+    },
+    "correct": "B",
+    "explanation": "ΔTC = 52 - 40 = 12, ΔQ = 80 - 0 = 80, MC = 12/80 = $0.15."
+  },
+  {
+    "id": 9,
+    "question": "A perfectly competitive firm maximizes profit where:",
+    "options": {
+      "A": "Price equals average total cost.",
+      "B": "Price equals marginal cost.",
+      "C": "Total revenue equals fixed cost.",
+      "D": "Marginal cost equals zero."
+    },
+    "correct": "B",
+    "explanation": "Produce where MR (price) = MC; extra benefit (P) equals extra cost (MC)."
+  },
+  {
+    "id": 10,
+    "question": "Fixed costs do not affect the profit-maximizing quantity because:",
+    "options": {
+      "A": "They are zero.",
+      "B": "Decisions are based on marginal (extra) costs and benefits.",
+      "C": "They increase with output.",
+      "D": "They equal revenue."
+    },
+    "correct": "B",
+    "explanation": "Profit maximization focuses on whether additional output's benefit exceeds its marginal cost, independent of sunk FC."
+  },
+  {
+    "id": 11,
+    "question": "In the short run, a firm should shut down if:",
+    "options": {
+      "A": "Price > average total cost.",
+      "B": "Total revenue < total variable cost (P < AVC).",
+      "C": "Profit is positive.",
+      "D": "Fixed costs are high."
+    },
+    "correct": "B",
+    "explanation": "If TR < VC, losses exceed FC alone; better to shut down and lose only FC."
+  },
+  {
+    "id": 12,
+    "question": "Average variable cost (AVC) is:",
+    "options": {
+      "A": "VC / Q.",
+      "B": "FC / Q.",
+      "C": "TC * Q.",
+      "D": "MC / Q."
+    },
+    "correct": "A",
+    "explanation": "AVC = VC / Q; the shut-down point is where P = min AVC."
+  },
+  {
+    "id": 13,
+    "question": "A firm is profitable if:",
+    "options": {
+      "A": "P < ATC.",
+      "B": "P > ATC.",
+      "C": "TR = FC.",
+      "D": "MC = 0."
+    },
+    "correct": "B",
+    "explanation": "P > ATC implies TR > TC, yielding positive economic profit."
+  },
+  {
+    "id": 14,
+    "question": "Accounting profit equals:",
+    "options": {
+      "A": "TR - explicit costs only.",
+      "B": "TR - explicit and implicit costs.",
+      "C": "TR - fixed costs.",
+      "D": "Implicit costs only."
+    },
+    "correct": "A",
+    "explanation": "Accounting profit ignores opportunity (implicit) costs."
+  },
+  {
+    "id": 15,
+    "question": "Economic profit includes:",
+    "options": {
+      "A": "Only explicit costs.",
+      "B": "TR minus explicit and implicit (opportunity) costs.",
+      "C": "Fixed costs doubled.",
+      "D": "Market price."
+    },
+    "correct": "B",
+    "explanation": "Economic profit = TR - (explicit + implicit costs); zero economic profit means normal profit (covering opportunity costs)."
+  },
+  {
+    "id": 16,
+    "question": "Normal profit occurs when:",
+    "options": {
+      "A": "Economic profit is positive.",
+      "B": "TR = explicit + implicit costs (zero economic profit).",
+      "C": "Losses equal fixed costs.",
+      "D": "Accounting profit is zero."
+    },
+    "correct": "B",
+    "explanation": "Covers opportunity costs exactly, so firm earns a normal return."
+  },
+  {
+    "id": 17,
+    "question": "In Kim's farming example (TR=$12,000, explicit=$10,000, implicit=$1,000), economic profit is:",
+    "options": {
+      "A": "$2,000.",
+      "B": "$1,000.",
+      "C": "$3,000.",
+      "D": "$11,000."
+    },
+    "correct": "B",
+    "explanation": "Economic profit = 12,000 - (10,000 + 1,000) = $1,000; positive, so continue farming."
+  },
+  {
+    "id": 18,
+    "question": "The Invisible Hand Theory, by Adam Smith, suggests that self-interested actions lead to:",
+    "options": {
+      "A": "Market failure.",
+      "B": "Efficient resource allocation through prices.",
+      "C": "Government intervention.",
+      "D": "Monopoly power."
+    },
+    "correct": "B",
+    "explanation": "Buyers and sellers pursuing self-interest result in societal efficiency via market prices."
+  },
+  {
+    "id": 19,
+    "question": "The rationing function of price distributes goods to:",
+    "options": {
+      "A": "Lowest bidders.",
+      "B": "Consumers who value them most (highest reservation prices).",
+      "C": "Producers with lowest costs.",
+      "D": "Government first."
+    },
+    "correct": "B",
+    "explanation": "Higher prices ration scarce goods to those willing to pay more, indicating higher value."
+  },
+  {
+    "id": 20,
+    "question": "In the long run, positive economic profits attract:",
+    "options": {
+      "A": "Fewer resources.",
+      "B": "New firms and resources into the market.",
+      "C": "Higher prices.",
+      "D": "Shut-downs."
+    },
+    "correct": "B",
+    "explanation": "Profits signal high demand, drawing entry until zero economic profit (normal profit)."
+  },
+  {
+    "id": 21,
+    "question": "In the haircut-yoga example, a decrease in haircut demand leads to:",
+    "options": {
+      "A": "Resources flowing into haircuts.",
+      "B": "Resources moving from haircuts to yoga.",
+      "C": "No change in supply.",
+      "D": "Permanent losses."
+    },
+    "correct": "B",
+    "explanation": "Losses in haircuts and profits in yoga cause resource reallocation toward equilibrium."
+  },
+  {
+    "id": 22,
+    "question": "Cost-saving innovations in perfect competition lead to, in the long run:",
+    "options": {
+      "A": "Permanent profits for the innovator.",
+      "B": "Lower market price and zero economic profit.",
+      "C": "Higher costs.",
+      "D": "Market exit."
+    },
+    "correct": "B",
+    "explanation": "Innovation boosts supply; entry and imitation drive price down to new zero-profit level."
+  },
+  {
+    "id": 23,
+    "question": "Market equilibrium is efficient when:",
+    "options": {
+      "A": "MB = MC for society.",
+      "B": "Price > equilibrium.",
+      "C": "Quantity is zero.",
+      "D": "No trade occurs."
+    },
+    "correct": "A",
+    "explanation": "Efficiency: marginal social benefit equals marginal social cost; no unexploited gains."
+  },
+  {
+    "id": 24,
+    "question": "A price below equilibrium causes:",
+    "options": {
+      "A": "Surplus.",
+      "B": "Shortage (underproduction).",
+      "C": "Efficiency.",
+      "D": "Overproduction."
+    },
+    "correct": "B",
+    "explanation": "Low price: Qd > Qs, leading to deadweight loss from unproduced units where MB > MC."
+  },
+  {
+    "id": 25,
+    "question": "A price ceiling creates inefficiency by causing:",
+    "options": {
+      "A": "Overproduction.",
+      "B": "Deadweight loss and potential shortages.",
+      "C": "Increased surplus.",
+      "D": "No change."
+    },
+    "correct": "B",
+    "explanation": "Ceilings below equilibrium reduce Qs and increase Qd, losing surplus; additional costs like waiting."
+  },
+  {
+    "id": 26,
+    "question": "In the bread subsidy example (import $2, sell $1, 6M loaves), net benefit is:",
+    "options": {
+      "A": "+$5M.",
+      "B": "-$1M.",
+      "C": "$0.",
+      "D": "+$6M."
+    },
+    "correct": "B",
+    "explanation": "Consumer surplus gain $5M, but government loss $6M (1/loaf * 6M), net -$1M deadweight loss."
+  },
+  {
+    "id": 27,
+    "question": "Taxes lead to:",
+    "options": {
+      "A": "Overproduction.",
+      "B": "Underproduction and deadweight loss.",
+      "C": "Efficiency.",
+      "D": "Zero cost."
+    },
+    "correct": "B",
+    "explanation": "Taxes drive wedge between P and MC, stopping production where MB > MC."
+  },
+  {
+    "id": 28,
+    "question": "Subsidies lead to:",
+    "options": {
+      "A": "Underproduction.",
+      "B": "Overproduction where MC > MB.",
+      "C": "Market equilibrium.",
+      "D": "Shut-downs."
+    },
+    "correct": "B",
+    "explanation": "Subsidies encourage production beyond efficient level, wasting resources."
+  },
+  {
+    "id": 29,
+    "question": "If Kim inherits land (implicit rent $6,000, other explicit $4,000, TR=$20,000, implicit labor $11,000? Wait, slide: total implicit $17,000?), economic profit is:",
+    "options": {
+      "A": "+$16,000.",
+      "B": "-$1,000.",
+      "C": "$0.",
+      "D": "+$3,000."
+    },
+    "correct": "B",
+    "explanation": "Economic profit = 20,000 - (4,000 explicit + 17,000 implicit? Slide implies -$1,000; quit farming."
+  },
+  {
+    "id": 30,
+    "question": "The allocative function of price directs resources to:",
+    "options": {
+      "A": "Overcrowded markets.",
+      "B": "Markets with higher prices (less crowded, higher value).",
+      "C": "Low-profit areas.",
+      "D": "Fixed inputs only."
+    },
+    "correct": "B",
+    "explanation": "Higher prices signal demand, attracting resources to high-value uses."
+  }
+]
