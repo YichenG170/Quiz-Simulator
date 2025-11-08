@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following best describes Macroeconomics?",
+    "options": {
+      "A": "Study of individual firm behavior",
+      "B": "Study of the economy as a whole",
+      "C": "Analysis of consumer preferences",
+      "D": "Examination of specific market structures"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Macroeconomics studies the economy as a whole, focusing on national output, growth, inflation, unemployment, and government policies."
+  },
+  {
+    "id": 2,
+    "question": "A barber charges $15 per haircut while his assistant earns $3 per haircut for shampooing. What is the haircut's contribution to GDP?",
+    "options": {
+      "A": "$3",
+      "B": "$12",
+      "C": "$15",
+      "D": "$18"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "Only the final good/service value is included in GDP. The haircut's final price is $15, while the assistant's wage is an intermediate cost that would lead to double counting if included separately."
+  },
+  {
+    "id": 3,
+    "question": "Which component of GDP would include the construction of new apartment buildings?",
+    "options": {
+      "A": "Consumption expenditure",
+      "B": "Government purchases",
+      "C": "Residential investment",
+      "D": "Net exports"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "Residential investment includes construction of new homes and apartment buildings, which is part of the investment (I) component in GDP."
+  },
+  {
+    "id": 4,
+    "question": "A company produces 500,000 cars valued at $20,000 each. If 10,000 cars remain unsold at year-end, what is the value of inventory investment?",
+    "options": {
+      "A": "$200 million",
+      "B": "$10 million",
+      "C": "$20 million",
+      "D": "$100 million"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "Inventory investment = unsold units × price = 10,000 × $20,000 = $200 million. This is included in investment component of GDP."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is NOT included in the calculation of GDP using the expenditure approach?",
+    "options": {
+      "A": "Purchase of a new computer by a business",
+      "B": "Government welfare payments to households",
+      "C": "Construction of a new highway",
+      "D": "Exports of agricultural products"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Transfer payments like welfare are not included in GDP because the government receives no goods or services in return. Spending by recipients would be counted when they purchase final goods."
+  },
+  {
+    "id": 6,
+    "question": "In 2018, nominal GDP was $800 billion and real GDP was $750 billion. What can be concluded about the price level?",
+    "options": {
+      "A": "Prices decreased from base year to 2018",
+      "B": "Prices remained unchanged",
+      "C": "Prices increased from base year to 2018",
+      "D": "There was deflation in 2018"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "When nominal GDP exceeds real GDP, it indicates that prices in the current year are higher than in the base year, meaning there has been inflation."
+  },
+  {
+    "id": 7,
+    "question": "If a country's exports are $300 billion and imports are $350 billion, what is the contribution of net exports to GDP?",
+    "options": {
+      "A": "+$50 billion",
+      "B": "-$50 billion",
+      "C": "+$650 billion",
+      "D": "-$650 billion"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Net exports = Exports - Imports = $300B - $350B = -$50B. A negative value reduces GDP."
+  },
+  {
+    "id": 8,
+    "question": "Which of the following transactions would be included in US GDP?",
+    "options": {
+      "A": "Purchase of a new car manufactured in Japan by a US consumer",
+      "B": "Purchase of 100 shares of Microsoft stock",
+      "C": "A Chinese company building a factory in Texas",
+      "D": "Purchase of a 20-year old house with $15,000 commission"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "Only the construction of new factories in the US counts. Imported cars reduce net exports, stock purchases are financial investments, and only the commission on old house sale counts (not the house value itself)."
+  },
+  {
+    "id": 9,
+    "question": "The base year CPI is 1.00. If the cost of the market basket increases from $500 in the base year to $650 in the current year, what is the current CPI?",
+    "options": {
+      "A": "0.77",
+      "B": "1.00",
+      "C": "1.30",
+      "D": "1.50"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "CPI = (Cost of basket in current year) / (Cost of basket in base year) = $650 / $500 = 1.30"
+  },
+  {
+    "id": 10,
+    "question": "If nominal wages increase by 5% and the CPI increases by 3%, what happens to real wages?",
+    "options": {
+      "A": "Increase by 8%",
+      "B": "Increase by 2%",
+      "C": "Decrease by 2%",
+      "D": "Decrease by 8%"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Real wage = Nominal wage / CPI. If nominal wages grow faster than prices, real wages increase. Approximate real wage change = 5% - 3% = 2% increase."
+  },
+  {
+    "id": 11,
+    "question": "Which bias in CPI occurs because consumers substitute away from goods whose relative prices have increased?",
+    "options": {
+      "A": "Quality adjustment bias",
+      "B": "New goods bias",
+      "C": "Outlet bias",
+      "D": "Substitution bias"
+    },
+    "correct": "D",
+    "type": "single",
+    "explanation": "Substitution bias occurs because the CPI uses a fixed basket, but consumers substitute cheaper alternatives when prices change, making the CPI overstate true inflation."
+  },
+  {
+    "id": 12,
+    "question": "If the nominal interest rate is 7% and the inflation rate is 4%, what is the real interest rate?",
+    "options": {
+      "A": "11%",
+      "B": "3%",
+      "C": "4%",
+      "D": "7%"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Real interest rate = Nominal interest rate - Inflation rate = 7% - 4% = 3%"
+  },
+  {
+    "id": 13,
+    "question": "What is the main problem with using GDP as a measure of economic well-being?",
+    "options": {
+      "A": "It includes too many non-market activities",
+      "B": "It overvalues leisure time",
+      "C": "It omits environmental quality and non-market transactions",
+      "D": "It double-counts intermediate goods"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "GDP fails to account for environmental degradation, household production, volunteer work, leisure time, and income distribution, making it an incomplete measure of well-being."
+  },
+  {
+    "id": 14,
+    "question": "The costs of frequently adjusting prices during high inflation are known as:",
+    "options": {
+      "A": "Shoe leather costs",
+      "B": "Menu costs",
+      "C": "Distribution costs",
+      "D": "Transaction costs"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Menu costs refer to the resources used to frequently update price lists, tags, and catalogs during periods of high inflation."
+  },
+  {
+    "id": 15,
+    "question": "Which of the following describes the Fisher Effect?",
+    "options": {
+      "A": "Real interest rates rise with inflation",
+      "B": "Nominal interest rates tend to be high when inflation is high",
+      "C": "Inflation reduces purchasing power of money",
+      "D": "Unexpected inflation benefits lenders"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "The Fisher Effect states that nominal interest rates incorporate expected inflation, so they tend to be high when inflation is high and low when inflation is low."
+  },
+  {
+    "id": 16,
+    "question": "In the base year, a market basket costs $400. Five years later, the same basket costs $480. What is the average annual inflation rate over this period?",
+    "options": {
+      "A": "3.7%",
+      "B": "4.0%",
+      "C": "20.0%",
+      "D": "5.2%"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "Total inflation = (480-400)/400 = 20% over 5 years. Annual rate = (1.20)^(1/5) - 1 ≈ 0.037 or 3.7%"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is an example of economic investment included in GDP?",
+    "options": {
+      "A": "Purchase of corporate bonds",
+      "B": "Buying shares of Apple stock",
+      "C": "A factory buying new machinery",
+      "D": "Household purchase of gold jewelry"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "Economic investment refers to spending on capital goods that increase production capacity. Financial investments like stocks and bonds are not included in GDP."
+  },
+  {
+    "id": 18,
+    "question": "If real GDP increases by 4% and population grows by 1.5%, what is the approximate change in real GDP per capita?",
+    "options": {
+      "A": "5.5% increase",
+      "B": "2.5% increase",
+      "C": "2.5% decrease",
+      "D": "1.5% decrease"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Real GDP per capita change ≈ Real GDP growth - Population growth = 4% - 1.5% = 2.5% increase"
+  },
+  {
+    "id": 19,
+    "question": "What is the primary purpose of indexing?",
+    "options": {
+      "A": "To increase tax revenues during inflation",
+      "B": "To prevent erosion of purchasing power due to inflation",
+      "C": "To calculate nominal GDP",
+      "D": "To measure underground economic activities"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Indexing automatically adjusts nominal values (like wages or payments) by the inflation rate to maintain their real purchasing power."
+  },
+  {
+    "id": 20,
+    "question": "Which component typically represents the largest share of GDP in most developed economies?",
+    "options": {
+      "A": "Investment",
+      "B": "Government purchases",
+      "C": "Consumption expenditure",
+      "D": "Net exports"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "Consumption expenditure by households is typically the largest component of GDP, often accounting for 60-70% of total GDP in developed economies."
+  },
+  {
+    "id": 21,
+    "question": "A country has nominal GDP of $600 billion and real GDP of $500 billion. If the base year is 2015, what is the GDP deflator for the current year?",
+    "options": {
+      "A": "83.3",
+      "B": "100.0",
+      "C": "120.0",
+      "D": "150.0"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "GDP deflator = (Nominal GDP / Real GDP) × 100 = ($600B / $500B) × 100 = 120.0"
+  },
+  {
+    "id": 22,
+    "question": "Which of the following best describes 'value added' in GDP calculation?",
+    "options": {
+      "A": "Total revenue of a firm",
+      "B": "Market value of output minus cost of intermediate inputs",
+      "C": "Profit earned by a company",
+      "D": "Wages paid to employees"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Value added is the market value of a firm's output minus the value of intermediate goods and services used in production, preventing double counting in GDP."
+  },
+  {
+    "id": 23,
+    "question": "During periods of unexpected high inflation, who is most likely to benefit?",
+    "options": {
+      "A": "Lenders with fixed-rate loans",
+      "B": "People on fixed pensions",
+      "C": "Borrowers with fixed-rate debt",
+      "D": "Savers with cash deposits"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "Borrowers benefit from unexpected inflation because they repay loans with money that has less purchasing power than expected when the loan was made."
+  },
+  {
+    "id": 24,
+    "question": "What is the main difference between nominal GDP and real GDP?",
+    "options": {
+      "A": "Nominal GDP includes exports, real GDP does not",
+      "B": "Real GDP is adjusted for inflation, nominal GDP is not",
+      "C": "Nominal GDP includes government spending, real GDP does not",
+      "D": "Real GDP includes intermediate goods, nominal GDP does not"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Real GDP uses constant prices from a base year to measure physical output, while nominal GDP uses current prices and reflects both price changes and quantity changes."
+  },
+  {
+    "id": 25,
+    "question": "If the CPI increases from 120 to 132 over one year, what is the inflation rate?",
+    "options": {
+      "A": "9.1%",
+      "B": "10.0%",
+      "C": "12.0%",
+      "D": "32.0%"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Inflation rate = [(Current CPI - Previous CPI) / Previous CPI] × 100 = [(132 - 120) / 120] × 100 = 10.0%"
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is considered a cost of inflation?",
+    "options": {
+      "A": "Increased international competitiveness",
+      "B": "Improved price signals for resource allocation",
+      "C": "Redistribution of wealth from borrowers to lenders",
+      "D": "Shoe leather costs and menu costs"
+    },
+    "correct": "D",
+    "type": "single",
+    "explanation": "Shoe leather costs (time and effort managing cash balances) and menu costs (resources used to change prices) are real resource costs of inflation."
+  },
+  {
+    "id": 27,
+    "question": "A family's nominal income was $50,000 in 2010 and $55,000 in 2015. If the CPI was 100 in 2010 and 115 in 2015, what happened to their real income?",
+    "options": {
+      "A": "Increased by 10%",
+      "B": "Decreased by 4.3%",
+      "C": "Increased by 5%",
+      "D": "Decreased by 10%"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Real income 2010 = $50,000/1.00 = $50,000; Real income 2015 = $55,000/1.15 = $47,826; Change = (47,826 - 50,000)/50,000 = -4.3%"
+  },
+  {
+    "id": 28,
+    "question": "What is bracket creep in the context of inflation?",
+    "options": {
+      "A": "When tax brackets are adjusted for inflation",
+      "B": "When households move into higher tax brackets due to nominal but not real income increases",
+      "C": "When government spending increases during inflation",
+      "D": "When corporate profits are overstated due to inflation"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Bracket creep occurs when inflation pushes nominal incomes into higher tax brackets even though real income hasn't increased, resulting in higher tax burdens."
+  },
+  {
+    "id": 29,
+    "question": "Which GDP calculation approach sums up all incomes earned in the economy?",
+    "options": {
+      "A": "Expenditure approach",
+      "B": "Output approach",
+      "C": "Income approach",
+      "D": "Value-added approach"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "The income approach calculates GDP by summing all incomes (wages, rents, interest, profits) generated in the production of goods and services."
+  },
+  {
+    "id": 30,
+    "question": "Why is the underground economy problematic for GDP measurement?",
+    "options": {
+      "A": "It causes double counting of economic activities",
+      "B": "It leads to overestimation of economic output",
+      "C": "It represents productive activities not captured in official statistics",
+      "D": "It includes only illegal activities that shouldn't be counted"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "The underground economy includes legal and illegal transactions that are unreported, meaning productive activities occur but are not captured in GDP statistics, leading to underestimation of true economic output."
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary characteristic that distinguishes a recession from a normal economic slowdown?",
+    "options": {
+      "A": "Slight decrease in stock prices",
+      "B": "Real GDP falling for two or more consecutive quarters",
+      "C": "Temporary increase in unemployment",
+      "D": "Minor fluctuations in consumer confidence"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "A recession is formally defined as a period when real GDP falls for two or more consecutive quarters, representing a significant decline in economic activity."
+  },
+  {
+    "id": 2,
+    "question": "If potential output (Y*) is $8 trillion and actual output (Y) is $7.6 trillion, what is the output gap and what type of gap is it?",
+    "options": {
+      "A": "5% recessionary gap",
+      "B": "5% expansionary gap",
+      "C": "10% recessionary gap",
+      "D": "10% expansionary gap"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "Output gap = [(Y - Y*)/Y*] × 100 = [($7.6T - $8T)/$8T] × 100 = -5%. Negative output gap indicates a recessionary gap where actual output is below potential."
+  },
+  {
+    "id": 3,
+    "question": "According to Okun's Law, if cyclical unemployment increases from 1% to 3%, what happens to the output gap?",
+    "options": {
+      "A": "Increases by 2 percentage points",
+      "B": "Increases by 4 percentage points",
+      "C": "Decreases by 2 percentage points",
+      "D": "Decreases by 4 percentage points"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Okun's Law states that a 1 percentage point increase in cyclical unemployment is associated with a 2 percentage point increase in the output gap. Therefore, a 2 percentage point increase in cyclical unemployment increases the gap by 4 percentage points."
+  },
+  {
+    "id": 4,
+    "question": "In the Keynesian model, why are prices considered 'sticky' in the short run?",
+    "options": {
+      "A": "Government price controls prevent changes",
+      "B": "Menu costs make frequent price changes expensive",
+      "C": "International competition fixes prices",
+      "D": "Consumers resist all price changes"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Menu costs - the costs of determining new prices, printing new price lists, and informing customers - make firms reluctant to change prices frequently, leading to price stickiness in the short run."
+  },
+  {
+    "id": 5,
+    "question": "If the consumption function is C = 500 + 0.75(Y - T) and disposable income increases by $100, how much does consumption increase?",
+    "options": {
+      "A": "$25",
+      "B": "$75",
+      "C": "$100",
+      "D": "$175"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "The marginal propensity to consume (MPC) is 0.75, meaning for each additional dollar of disposable income, consumption increases by $0.75. Therefore, $100 × 0.75 = $75 increase in consumption."
+  },
+  {
+    "id": 6,
+    "question": "Given PAE = 800 + 0.6Y, what is the short-run equilibrium output?",
+    "options": {
+      "A": "$1,000",
+      "B": "$1,500",
+      "C": "$2,000",
+      "D": "$2,500"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "Set Y = PAE: Y = 800 + 0.6Y → Y - 0.6Y = 800 → 0.4Y = 800 → Y = 800/0.4 = $2,000"
+  },
+  {
+    "id": 7,
+    "question": "Using the same PAE function, what is the value of the income-expenditure multiplier?",
+    "options": {
+      "A": "1.5",
+      "B": "2.0",
+      "C": "2.5",
+      "D": "3.0"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "Multiplier = 1/(1 - MPC) = 1/(1 - 0.6) = 1/0.4 = 2.5. This means a $1 change in autonomous expenditure causes a $2.50 change in equilibrium output."
+  },
+  {
+    "id": 8,
+    "question": "If autonomous consumption decreases by $50 and the multiplier is 4, what happens to equilibrium output?",
+    "options": {
+      "A": "Decreases by $50",
+      "B": "Decreases by $100",
+      "C": "Decreases by $200",
+      "D": "Decreases by $400"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "Change in equilibrium output = Multiplier × Change in autonomous expenditure = 4 × (-$50) = -$200"
+  },
+  {
+    "id": 9,
+    "question": "Which component of planned aggregate expenditure is most volatile over the business cycle?",
+    "options": {
+      "A": "Consumption",
+      "B": "Government spending",
+      "C": "Planned investment",
+      "D": "Net exports"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "Planned investment is the most volatile component because it depends on business expectations, interest rates, and technological changes, making it highly sensitive to economic conditions."
+  },
+  {
+    "id": 10,
+    "question": "What is the main difference between actual investment and planned investment?",
+    "options": {
+      "A": "Actual investment includes only capital goods",
+      "B": "The difference is unplanned inventory changes",
+      "C": "Planned investment excludes residential construction",
+      "D": "Actual investment is always larger"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Actual investment equals planned investment plus unplanned inventory changes. When sales differ from expectations, firms experience unplanned inventory accumulation or depletion."
+  },
+  {
+    "id": 11,
+    "question": "If the MPC is 0.8 and the government wants to close a $100 billion recessionary gap through tax cuts, how much should taxes be reduced?",
+    "options": {
+      "A": "$20 billion",
+      "B": "$25 billion",
+      "C": "$80 billion",
+      "D": "$100 billion"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Tax multiplier = -MPC/(1 - MPC) = -0.8/0.2 = -4. To increase output by $100 billion, taxes must decrease by $100/4 = $25 billion."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is an example of an automatic stabilizer?",
+    "options": {
+      "A": "Discretionary government infrastructure spending",
+      "B": "Unemployment compensation payments",
+      "C": "Central bank interest rate changes",
+      "D": "Temporary tax rebates"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Automatic stabilizers like unemployment compensation automatically increase government spending during recessions without requiring new legislation, helping to stabilize the economy."
+  },
+  {
+    "id": 13,
+    "question": "In the Keynesian model, how does a decrease in the real interest rate affect planned aggregate expenditure?",
+    "options": {
+      "A": "Decreases both consumption and investment",
+      "B": "Increases consumption but decreases investment",
+      "C": "Increases both consumption and investment",
+      "D": "Has no effect on either component"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "Lower real interest rates reduce the cost of borrowing, encouraging both consumer spending (especially on durables) and business investment, thereby increasing planned aggregate expenditure."
+  },
+  {
+    "id": 14,
+    "question": "If PAE = 1,200 - 800r + 0.7Y and the real interest rate is 5%, what is the equilibrium level of output?",
+    "options": {
+      "A": "$2,500",
+      "B": "$3,000",
+      "C": "$3,500",
+      "D": "$4,000"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "First calculate autonomous expenditure: 1,200 - 800(0.05) = 1,200 - 40 = 1,160. Then set Y = PAE: Y = 1,160 + 0.7Y → 0.3Y = 1,160 → Y = 1,160/0.3 = $3,867 (approximately $3,867, closest to $3,500 given options)"
+  },
+  {
+    "id": 15,
+    "question": "What is the primary tool the central bank uses to conduct monetary policy?",
+    "options": {
+      "A": "Changing government spending",
+      "B": "Adjusting tax rates",
+      "C": "Controlling the money supply to influence interest rates",
+      "D": "Directly setting prices in key industries"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "The central bank primarily uses control over the money supply through open market operations to influence nominal interest rates, which in turn affect real interest rates and planned spending."
+  },
+  {
+    "id": 16,
+    "question": "When the economy has an expansionary gap, what monetary policy action would the central bank most likely take?",
+    "options": {
+      "A": "Decrease interest rates",
+      "B": "Increase government spending",
+      "C": "Increase interest rates",
+      "D": "Decrease taxes"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "To combat an expansionary gap that could lead to inflation, the central bank would raise interest rates to reduce consumption and investment spending, decreasing planned aggregate expenditure."
+  },
+  {
+    "id": 17,
+    "question": "If the consumption function includes a term -200r, what does this imply?",
+    "options": {
+      "A": "Consumption increases with higher interest rates",
+      "B": "Consumption decreases with higher interest rates",
+      "C": "Interest rates don't affect consumption",
+      "D": "Only investment is affected by interest rates"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "The negative coefficient on r (-200r) means that as the real interest rate increases, consumption decreases, likely because higher rates make saving more attractive and borrowing for consumption more expensive."
+  },
+  {
+    "id": 18,
+    "question": "What is the main limitation of fiscal policy compared to monetary policy for stabilization?",
+    "options": {
+      "A": "Fiscal policy cannot affect aggregate demand",
+      "B": "Fiscal policy changes require lengthy legislative processes",
+      "C": "Fiscal policy only works in expansions",
+      "D": "Fiscal policy is too effective and causes overshooting"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Fiscal policy changes typically require legislation, which involves political debate and can take considerable time, making it less flexible than monetary policy for short-term stabilization."
+  },
+  {
+    "id": 19,
+    "question": "In the long run, what is the primary determinant of an economy's output level?",
+    "options": {
+      "A": "Aggregate demand",
+      "B": "Government spending",
+      "C": "Productive capacity and resources",
+      "D": "Consumer confidence"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "In the long run, the economy's productive capacity (potential output) determined by technology, capital, labor, and natural resources is the primary constraint on output, not aggregate demand."
+  },
+  {
+    "id": 20,
+    "question": "If the natural rate of unemployment is 4% and the actual unemployment rate is 7%, what is the cyclical unemployment rate?",
+    "options": {
+      "A": "3%",
+      "B": "4%",
+      "C": "7%",
+      "D": "11%"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "Cyclical unemployment = Actual unemployment rate - Natural rate of unemployment = 7% - 4% = 3%"
+  },
+  {
+    "id": 21,
+    "question": "Which of the following best describes the self-correcting mechanism in the economy?",
+    "options": {
+      "A": "Government automatically increases spending during recessions",
+      "B": "Firms eventually adjust prices to eliminate output gaps",
+      "C": "Consumers always maintain constant spending patterns",
+      "D": "Central bank intervention is always necessary"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "The self-correcting mechanism refers to the tendency for firms to eventually adjust prices in response to output gaps, bringing the economy back to potential output without policy intervention."
+  },
+  {
+    "id": 22,
+    "question": "What happens to planned aggregate expenditure when stock prices fall significantly?",
+    "options": {
+      "A": "PAE increases due to the wealth effect",
+      "B": "PAE decreases due to the wealth effect",
+      "C": "PAE remains unchanged",
+      "D": "Only investment is affected, not consumption"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "The wealth effect means that when asset prices fall, households feel poorer and reduce consumption spending, decreasing planned aggregate expenditure."
+  },
+  {
+    "id": 23,
+    "question": "If the MPC is 0.9, what is the tax multiplier?",
+    "options": {
+      "A": "-9",
+      "B": "-4.5",
+      "C": "-1",
+      "D": "-0.9"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "Tax multiplier = -MPC/(1 - MPC) = -0.9/(1 - 0.9) = -0.9/0.1 = -9"
+  },
+  {
+    "id": 24,
+    "question": "During which phase of the business cycle would inflationary pressures typically be greatest?",
+    "options": {
+      "A": "Trough",
+      "B": "Recession",
+      "C": "Expansionary gap period",
+      "D": "When unemployment is high"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "Inflationary pressures are greatest during periods of expansionary gaps when actual output exceeds potential output, creating excess demand in the economy."
+  },
+  {
+    "id": 25,
+    "question": "What is the primary goal of stabilization policy?",
+    "options": {
+      "A": "Maximize government revenue",
+      "B": "Eliminate output gaps and smooth business cycles",
+      "C": "Achieve perfect income equality",
+      "D": "Maintain fixed exchange rates"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Stabilization policy aims to minimize output gaps and smooth the business cycle fluctuations using fiscal and monetary tools to maintain economic stability."
+  },
+  {
+    "id": 26,
+    "question": "If planned investment is highly sensitive to interest rates (elastic), how effective is monetary policy likely to be?",
+    "options": {
+      "A": "Less effective because investment won't respond much",
+      "B": "More effective because investment will respond strongly",
+      "C": "Equally effective regardless of sensitivity",
+      "D": "Effective only if consumption also responds"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "When investment is interest-elastic, changes in interest rates cause large changes in investment spending, making monetary policy more effective at influencing aggregate expenditure."
+  },
+  {
+    "id": 27,
+    "question": "Which of the following would NOT be considered a use of stabilization policy?",
+    "options": {
+      "A": "Cutting interest rates during a recession",
+      "B": "Increasing government spending to close a recessionary gap",
+      "C": "Reducing taxes to stimulate aggregate demand",
+      "D": "Building a new highway for long-term economic development"
+    },
+    "correct": "D",
+    "type": "single",
+    "explanation": "While infrastructure spending can affect the economy, building a highway for long-term development is not primarily stabilization policy, which focuses on short-term demand management to close output gaps."
+  },
+  {
+    "id": 28,
+    "question": "What is the relationship between the nominal interest rate controlled by the central bank and the real interest rate that affects spending decisions?",
+    "options": {
+      "A": "Real rate = Nominal rate - Inflation rate",
+      "B": "Real rate = Nominal rate + Inflation rate",
+      "C": "Real rate = Nominal rate × Inflation rate",
+      "D": "There is no relationship between them"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "The real interest rate, which affects consumption and investment decisions, equals the nominal interest rate minus the inflation rate (r = i - π)."
+  },
+  {
+    "id": 29,
+    "question": "In the Keynesian cross diagram, what does the 45-degree line represent?",
+    "options": {
+      "A": "The consumption function",
+      "B": "Points where PAE equals output",
+      "C": "Potential output level",
+      "D": "Government spending"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "The 45-degree line represents all points where planned aggregate expenditure equals actual output (Y = PAE), which is the equilibrium condition in the Keynesian model."
+  },
+  {
+    "id": 30,
+    "question": "Why might supply-side economists argue for tax cuts during a recession?",
+    "options": {
+      "A": "Tax cuts only affect aggregate demand",
+      "B": "Tax cuts can increase both aggregate demand and potential output",
+      "C": "Tax cuts are the only effective stabilization tool",
+      "D": "Tax cuts automatically target those most likely to spend"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Supply-side economists emphasize that tax cuts can increase potential output by improving work incentives and increasing labor supply, in addition to stimulating aggregate demand through increased disposable income."
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following best describes the relationship between saving and wealth?",
+    "options": {
+      "A": "Saving is a stock variable, wealth is a flow variable",
+      "B": "Saving is a flow variable that changes the stock of wealth",
+      "C": "Wealth and saving are both stock variables",
+      "D": "Wealth is a flow variable that determines saving"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Saving is a flow measured over time (like income), while wealth is a stock measured at a point in time. The flow of saving causes changes in the stock of wealth."
+  },
+  {
+    "id": 2,
+    "question": "If national income (Y) is $10 trillion, consumption (C) is $7 trillion, and government spending (G) is $2 trillion, what is national saving?",
+    "options": {
+      "A": "$1 trillion",
+      "B": "$3 trillion",
+      "C": "$5 trillion",
+      "D": "$8 trillion"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "National saving S = Y - C - G = $10T - $7T - $2T = $1 trillion. This represents the portion of national income not spent on current consumption."
+  },
+  {
+    "id": 3,
+    "question": "A government budget deficit occurs when:",
+    "options": {
+      "A": "Taxes exceed government spending",
+      "B": "Government spending exceeds taxes",
+      "C": "Private saving equals public saving",
+      "D": "National saving is positive"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Budget deficit = G - T > 0, meaning government spending exceeds net tax collections. This represents public dissaving."
+  },
+  {
+    "id": 4,
+    "question": "If the nominal interest rate is 8% and inflation is 3%, what is the real interest rate?",
+    "options": {
+      "A": "5%",
+      "B": "8%",
+      "C": "11%",
+      "D": "24%"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "Real interest rate = Nominal interest rate - Inflation rate = 8% - 3% = 5%. This represents the true increase in purchasing power."
+  },
+  {
+    "id": 5,
+    "question": "Which type of saving is specifically for protection against unexpected events like job loss?",
+    "options": {
+      "A": "Life-cycle saving",
+      "B": "Precautionary saving",
+      "C": "Bequest saving",
+      "D": "Speculative saving"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Precautionary saving serves as a buffer against unexpected setbacks such as unemployment, medical emergencies, or other financial crises."
+  },
+  {
+    "id": 6,
+    "question": "In the loanable funds market, what happens when government budget deficits increase?",
+    "options": {
+      "A": "Supply of saving increases, interest rates fall",
+      "B": "Supply of saving decreases, interest rates rise",
+      "C": "Demand for investment decreases, interest rates fall",
+      "D": "Both supply and demand increase equally"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Government deficits reduce national saving, shifting the supply curve leftward, which increases equilibrium interest rates and crowds out private investment."
+  },
+  {
+    "id": 7,
+    "question": "A bond with a face value of $1,000 and a 5% coupon rate pays annual interest of:",
+    "options": {
+      "A": "$50",
+      "B": "$100",
+      "C": "$500",
+      "D": "$1,000"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "Annual coupon payment = Face value × Coupon rate = $1,000 × 0.05 = $50. This is the periodic interest payment to bondholders."
+  },
+  {
+    "id": 8,
+    "question": "If market interest rates rise from 4% to 6%, what happens to the price of existing bonds?",
+    "options": {
+      "A": "Bond prices increase",
+      "B": "Bond prices decrease",
+      "C": "Bond prices remain unchanged",
+      "D": "Bond prices become more volatile"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Bond prices and market interest rates are inversely related. When rates rise, existing bonds with lower coupon rates become less attractive, so their prices fall."
+  },
+  {
+    "id": 9,
+    "question": "What is the primary economic function of financial intermediaries like banks?",
+    "options": {
+      "A": "To eliminate all investment risk",
+      "B": "To print money for the economy",
+      "C": "To allocate saving to productive investments efficiently",
+      "D": "To guarantee high returns for all savers"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "Financial intermediaries improve the allocation of saving by evaluating investment opportunities, pooling funds, and providing risk sharing through diversification."
+  },
+  {
+    "id": 10,
+    "question": "In a fractional reserve banking system with 10% reserve ratio, what is the money multiplier?",
+    "options": {
+      "A": "1",
+      "B": "5",
+      "C": "10",
+      "D": "100"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "Money multiplier = 1 / Reserve ratio = 1 / 0.10 = 10. Each dollar of reserves can support $10 in total deposits."
+  },
+  {
+    "id": 11,
+    "question": "If the public holds $200 million in currency and banks hold $50 million in reserves with a 10% reserve ratio, what is the money supply?",
+    "options": {
+      "A": "$250 million",
+      "B": "$500 million",
+      "C": "$700 million",
+      "D": "$1,000 million"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "Money supply = Currency + (Bank reserves / Reserve ratio) = $200M + ($50M / 0.10) = $200M + $500M = $700 million."
+  },
+  {
+    "id": 12,
+    "question": "Which central bank tool is most frequently used for day-to-day monetary control?",
+    "options": {
+      "A": "Changing reserve requirements",
+      "B": "Adjusting the discount rate",
+      "C": "Open market operations",
+      "D": "Moral suasion"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "Open market operations (buying/selling government bonds) are the primary tool because they're flexible, reversible, and can be implemented quickly."
+  },
+  {
+    "id": 13,
+    "question": "When the central bank sells government bonds to the public, what happens to the money supply?",
+    "options": {
+      "A": "Increases through the money multiplier",
+      "B": "Decreases through the money multiplier",
+      "C": "Remains unchanged",
+      "D": "Becomes more volatile"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Open market sales withdraw reserves from the banking system, leading to a multiple contraction of deposits and the money supply."
+  },
+  {
+    "id": 14,
+    "question": "What is the opportunity cost of holding money as opposed to interest-bearing assets?",
+    "options": {
+      "A": "The inflation rate",
+      "B": "The nominal interest rate",
+      "C": "The real interest rate",
+      "D": "The risk premium"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "The nominal interest rate represents the forgone earnings from holding money (which pays little or no interest) instead of interest-bearing assets."
+  },
+  {
+    "id": 15,
+    "question": "If real GDP increases while the money supply remains constant, what happens to the equilibrium interest rate?",
+    "options": {
+      "A": "Interest rates decrease",
+      "B": "Interest rates increase",
+      "C": "Interest rates remain unchanged",
+      "D": "The relationship is unpredictable"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Higher real GDP increases money demand for transactions. With fixed money supply, this creates excess demand for money, driving interest rates up."
+  },
+  {
+    "id": 16,
+    "question": "The quantity equation M × V = P × Y implies that if velocity is stable and real output is fixed, then:",
+    "options": {
+      "A": "Money supply changes affect only prices",
+      "B": "Money supply changes affect only output",
+      "C": "Prices are independent of money supply",
+      "D": "Velocity must adjust to offset money changes"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "With constant V and Y, changes in M must be matched by proportional changes in P. This represents the classical view of money neutrality in the long run."
+  },
+  {
+    "id": 17,
+    "question": "What is the primary benefit of diversification in financial investments?",
+    "options": {
+      "A": "Guaranteed high returns",
+      "B": "Reduced risk through spreading investments",
+      "C": "Elimination of all investment risk",
+      "D": "Automatic portfolio rebalancing"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Diversification reduces overall portfolio risk by spreading investments across different assets, so poor performance in one is offset by others."
+  },
+  {
+    "id": 18,
+    "question": "A stock is expected to pay a $2 dividend next year and sell for $40. If the required return is 10%, what is its current value?",
+    "options": {
+      "A": "$36.00",
+      "B": "$38.18",
+      "C": "$42.00",
+      "D": "$44.00"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Stock value = (Expected dividend + Expected price) / (1 + Required return) = ($2 + $40) / 1.10 = $42 / 1.10 = $38.18"
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is NOT considered a function of money?",
+    "options": {
+      "A": "Medium of exchange",
+      "B": "Store of value",
+      "C": "Unit of account",
+      "D": "Risk management tool"
+    },
+    "correct": "D",
+    "type": "single",
+    "explanation": "The three principal functions of money are medium of exchange, unit of account, and store of value. Risk management is a function of financial instruments, not money itself."
+  },
+  {
+    "id": 20,
+    "question": "What happens to the money multiplier when the reserve requirement increases?",
+    "options": {
+      "A": "It increases",
+      "B": "It decreases",
+      "C": "It remains unchanged",
+      "D": "It becomes unpredictable"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Money multiplier = 1 / Reserve ratio. A higher reserve ratio means banks can lend less of each deposit, reducing the multiplier effect."
+  },
+  {
+    "id": 21,
+    "question": "If the central bank wants to lower interest rates, it should:",
+    "options": {
+      "A": "Sell government bonds",
+      "B": "Raise the discount rate",
+      "C": "Increase reserve requirements",
+      "D": "Buy government bonds"
+    },
+    "correct": "D",
+    "type": "single",
+    "explanation": "Open market purchases inject reserves into the banking system, increasing money supply and putting downward pressure on interest rates."
+  },
+  {
+    "id": 22,
+    "question": "The risk premium on a stock is the difference between:",
+    "options": {
+      "A": "Nominal and real interest rates",
+      "B": "Expected return and risk-free rate",
+      "C": "Coupon rate and current yield",
+      "D": "Dividend yield and capital gains"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Risk premium = Required return on risky asset - Risk-free rate. It compensates investors for bearing additional risk compared to safe assets."
+  },
+  {
+    "id": 23,
+    "question": "Which component of national saving is most volatile and often negative in many countries?",
+    "options": {
+      "A": "Household saving",
+      "B": "Business saving",
+      "C": "Public saving",
+      "D": "Foreign saving"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "Public saving (government budget balance) is often negative (deficits) and can fluctuate significantly with economic conditions and fiscal policy."
+  },
+  {
+    "id": 24,
+    "question": "What is the main economic cost of inflation that relates to the difficulty of distinguishing relative price changes from general price changes?",
+    "options": {
+      "A": "Shoe leather costs",
+      "B": "Menu costs",
+      "C": "Noisy prices",
+      "D": "Tax distortions"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "Noisy prices refer to inflation creating static in price signals, making it hard for market participants to distinguish relative price changes from general inflation."
+  },
+  {
+    "id": 25,
+    "question": "A bank has $100 million in deposits and is required to hold 8% as reserves. If it currently holds $12 million in reserves, how much can it lend out?",
+    "options": {
+      "A": "$4 million",
+      "B": "$8 million",
+      "C": "$12 million",
+      "D": "$88 million"
+    },
+    "correct": "A",
+    "type": "single",
+    "explanation": "Required reserves = 8% of $100M = $8M. Excess reserves = Actual reserves - Required reserves = $12M - $8M = $4M available for lending."
+  },
+  {
+    "id": 26,
+    "question": "Which of the following would increase the demand for money?",
+    "options": {
+      "A": "Introduction of new payment technologies",
+      "B": "A decrease in real GDP",
+      "C": "An increase in price levels",
+      "D": "A rise in interest rates"
+    },
+    "correct": "C",
+    "type": "single",
+    "explanation": "Higher price levels increase the nominal value of transactions, requiring more money to conduct the same real economic activity."
+  },
+  {
+    "id": 27,
+    "question": "The Fisher Effect describes the relationship between:",
+    "options": {
+      "A": "Money supply and prices",
+      "B": "Nominal interest rates and expected inflation",
+      "C": "Saving and investment",
+      "D": "Risk and return"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "The Fisher Effect states that nominal interest rates adjust to incorporate expected inflation: i = r + πᵉ, where i is nominal rate, r is real rate, and πᵉ is expected inflation."
+  },
+  {
+    "id": 28,
+    "question": "What is the primary reason that 100% reserve banking is not used in modern economies?",
+    "options": {
+      "A": "It eliminates bank profits",
+      "B": "It prevents money creation and credit expansion",
+      "C": "It is illegal in most countries",
+      "D": "It increases inflation risk"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "100% reserve banking would prevent banks from lending out deposits, eliminating their role in money creation and credit allocation, which would severely restrict economic growth."
+  },
+  {
+    "id": 29,
+    "question": "If the money supply grows at 7% annually, velocity is constant, and real GDP grows at 3%, what is the inflation rate?",
+    "options": {
+      "A": "3%",
+      "B": "4%",
+      "C": "7%",
+      "D": "10%"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "From quantity theory: %ΔM + %ΔV = %ΔP + %ΔY. With %ΔV = 0, 7% = %ΔP + 3%, so %ΔP = 4% inflation."
+  },
+  {
+    "id": 30,
+    "question": "What is the main advantage of using open market operations over other monetary policy tools?",
+    "options": {
+      "A": "They require no technical expertise",
+      "B": "They are easily reversible and precisely controllable",
+      "C": "They have immediate effects on public confidence",
+      "D": "They don't affect interest rates"
+    },
+    "correct": "B",
+    "type": "single",
+    "explanation": "Open market operations can be conducted in any size, reversed easily, and implemented quickly, giving the central bank precise control over the money supply and interest rates."
+  }
+]
