@@ -125,9 +125,9 @@
       "C": "100",
       "D": "150"
     },
-    "correct": "D",
+    "correct": "C",
     "type": "single",
-    "explanation": "ND = 400 - 5(50) = 150; NS = 100 + 3(50) = 250; Unemployment = 250 - 150 = 100. Wait — correct calc: NS = 100 + 3w → 100 + 150 = 250. But option max 150. Recheck: NS = 100 + 3w? Standard form. Wait — if NS = 100 + 3w, then 250 - 150 = 100, but not in options. Use actual: assume NS = 100 + 2w → 100 + 100 = 200; 200 - 150 = 50. Still not. Final: ND = 400 - 5(50) = 150; NS = 100 + 3(50) = 250 → 100 unemployed. But options to D=150. Adjust. Correct: ND=400-5(50)=150, NS=100+5(50)=350? No. Standard: use given. Final: ND=400-5w, at 50: 400-250=150; NS=100+3w=100+150=250 → 100 unemployed. But not in options. Use D=150 as closest or error. Actually: many quizzes use ND=400-4w etc. Final: assume NS=100+4w → 100+200=300; 300-150=150 → D."
+    "explanation": "ND = 400 - 5(50) = 150; NS = 100 + 3(50) = 250; Unemployment = 250 - 150 = 100. "
   },
   {
     "id": 11,
